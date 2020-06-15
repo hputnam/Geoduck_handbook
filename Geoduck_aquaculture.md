@@ -2,8 +2,8 @@
 # <span style="color:Green">**Pacific Geoduck Aquaculture Handbook**</span>
 ## <span style="color:gray">**Table of Contents**</span>
   - 1. [About](#About)
-      - 1.1.[Background](#Pacific-geoduck--Panogea-generosa-)
-      - 1.2.[Purpose of this handbook](#Why-Read-this-Handbook?)
+      - 1.1. [Background](#Pacific-geoduck--Panogea-generosa-)
+      - 1.2. [Purpose of this handbook](#Why-Read-this-Handbook?)
   - 2. [General Practices](#General-Rearing-Practices)
       - 2.1. [Hatchery Overview](#The-hatchery)
       - 2.2. [Broodstock Conditioning & Natural Spawning](#Broodstock-Conditioning-&-Natural-Spawning)
