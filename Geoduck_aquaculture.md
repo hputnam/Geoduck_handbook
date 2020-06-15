@@ -10,13 +10,13 @@
       - 2.3. [Larvae and Seed](#I.3-Larvae-and-Seed)
   - 3. [Strip Spawning](#II-Strip-spawning)
       - 3.1. [General Procedure](#II1-General-Procedures)
-      - 3.1. [General Procedure](#II2-Takeaways-for-Aquaculture)
+      - 3.2. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
   - 4. [Climate Change & Aquaculture](#III-Climate-Change-&-Aquaculture)
       - 4.1 [Ocean Acidification](#III1-Ocean-Acidification)
       - 4.2 [Future Solution: Stress Priming](#III2-Future-Solution:-Stress-Priming)
         - 4.2.1 [Broodstock](#Broodstock)
         - 4.2.1 [Larvae and Juveniles](#Larvae-and-Juveniles)
-      - 4.3 [Summary of Our Findings](#III3-Initial-Tests-&-Results)
+      - 4.3 [Summary of Our Findings](#III3-Initial-Tests--Results)
       - 4.4 [Takeaways for Aquaculture](#IV4-Takeaways-for-Aquaculture)
 
 
