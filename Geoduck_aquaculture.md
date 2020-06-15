@@ -4,7 +4,7 @@
   - 1. [About](#About)
       - 1.1. [Background](#Pacific-geoduck-Panogea-generosa)
       - 1.2. [Purpose of this handbook](#Why-Read-this-Handbook?)
-  - 2. [General Practices](#I--General-Rearing-Practices)
+  - 2. [General Practices](#I-General-Rearing-Practices)
       - 2.1. [Hatchery Overview](#I.1.-The-hatchery)
       - 2.2. [Broodstock Conditioning & Natural Spawning](#I.2.-Broodstock-Conditioning-&-Natural-Spawning)
       - 2.3. [Larvae and Seed](#I.3-Larvae-and-Seed)
