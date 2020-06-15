@@ -115,8 +115,8 @@ Life stage  | Treatment | measurement | response
 ------------- | ------------- | ---------- | ----------
 Broodstock  | 7.8 (ambient) v. constant 6.8 v. oscillating 6.8| survival |
             |   | fecundity / reproductive success |
-gametes (egg and sperm)                | | lipid index | blah
-larvae (D-hinge)                       | | |
+gametes (egg and sperm)                | | lipid index |
+larvae (D-hinge)                       | | | 
 larvae (pediveligers)                  | | |
 juveniles (5-10 months)                | pH  = 7.8 (ambient) v. 7.2; Ω arag sat. = 1.3 v. 0.4 | survival   |   no mortality after repeated short-term exposures (6 - 10 days)
                                        | | metabolism |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
