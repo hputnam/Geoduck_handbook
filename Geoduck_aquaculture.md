@@ -2,18 +2,22 @@
 # <span style="color:Green">**Pacific Geoduck Aquaculture Handbook**</span>
 ## <span style="color:gray">**Table of Contents**</span>
   - 1. [About](#About)
-      - 1.1. [Background](#Pacific-geoduck--Panogea-generosa-)
+      - 1.1. [Background](#Pacific-geoduck-Panogea-generosa)
       - 1.2. [Purpose of this handbook](#Why-Read-this-Handbook?)
-  - 2. [General Practices](#General-Rearing-Practices)
-      - 2.1. [Hatchery Overview](#The-hatchery)
-      - 2.2. [Broodstock Conditioning & Natural Spawning](#Broodstock-Conditioning-&-Natural-Spawning)
-      - 2.3. [Larvae and Seed](#Larvae-and-Seed)
-  - 3. [Strip Spawning](#Strip-spawning)
-      - 3.1. [General Procedure](#)
-  - 4. [Climate Change & Aquaculture](#)
-      - 4.1 [Ocean Acidification](#)
-      - 4.2 [Broodstock Exposure to stress](#)
-
+  - 2. [General Practices](#I.-General-Rearing-Practices)
+      - 2.1. [Hatchery Overview](#I.1.-The-hatchery)
+      - 2.2. [Broodstock Conditioning & Natural Spawning](#I.2.-Broodstock-Conditioning-&-Natural-Spawning)
+      - 2.3. [Larvae and Seed](#I.3-Larvae-and-Seed)
+  - 3. [Strip Spawning](#II.-Strip-spawning)
+      - 3.1. [General Procedure](#II.1.-General-Procedures)
+      - 3.1. [General Procedure](#II.2.-Takeaways-for-Aquaculture)
+  - 4. [Climate Change & Aquaculture](#III-Climate-Change-&-Aquaculture)
+      - 4.1 [Ocean Acidification](#III.1.-Ocean-Acidification)
+      - 4.2 [Future Solution: Stress Priming](#III.2.-Future-Solution:-Stress-Priming)
+        - 4.2.1[Broodstock](#Broodstock)
+        - 4.2.1[Larvae and Juveniles](#Larvae-and-Juveniles)
+      - 4.3 [Summary of Our Findings](#III.3-Initial-Tests-&-Results)
+      - 4.4 [Takeaways for Aquaculture](#IV.4-Takeaways-for-Aquaculture)
 
 
 
