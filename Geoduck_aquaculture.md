@@ -198,6 +198,7 @@ Strip spawning is a destructive method for spawning geoduck, meaning all chosen 
   6. If strip spawning a female goand, use 0.2µm-filtered seawater in a squirt bottle as you strip spawn. Eggs must be in seawater to ensure viability donstream in this process. In contrast, DO NOT use seawater while strip spawning male gonads. This will activate the sperm and leave them unviable when needed for fertilization. Strip spawn the male gonad without seawater into a dry beaker and leave fridgerated at 12-14C until eggs are prepared for fertilization.
 
   NOTE: all individuls strip spawned have thier own individual beaker - do not mix gametes
+
   7. After a feamle gonad is deplete, add seawater to teh beaker of eggs to hydrate them. Hydrated eggs are nearly perfect circles whereas eggs without seawater will appear elongated.
   8. Once hydrated, eggs are ready for activation. Add KCl to egg batches to target a concentration of 0.1 M KCl, mix gently, and let sit for 15-20 minutes.
   9. Rinse egg batches (seperately per individual!) on a 20 µm seive with filtered seawater. The objective of this step is to remove the KCl and prepare eggs for sperm. Rinse eggs off the 20 µm seive into a beaker with 0.2 181m filtered seawater.
