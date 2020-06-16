@@ -5,16 +5,16 @@
 
 ## <span style="color:green">**Table of Contents**</span>
   - [About](#About)
-      - [Purpose of this handbook](#Why-read-this-handbook?)
+      - [Purpose of this handbook](#Why-read-this-handbook)
       - [Background](#Pacific-geoduck-Panogea-generosa)
   - [General Practices](#I-General-Rearing-Practices)
       - I.1. [Hatchery Overview](#I1-The-hatchery)
       - I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
-      - I.3. [Larvae and Seed](#I.3-Larvae-and-Seed)
+      - I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
   - [Broodstock & Spawning Enhancment Stradegies](#II-Broodstock--Spawning-Enhancment-Stradegies)
       - II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
         - II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
-        - II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-ExtractionVitellogenin)
+        - II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
       - II.2. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
   - [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
       - III.1 [Ocean Acidification](#III1-Ocean-Acidification)
@@ -80,7 +80,7 @@ The success of shellfish industry is fueled by the hatchery. Here, technicians w
 
 <img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
 
-## <span style="color:black">**Geoduck aquaculture requires  the following facilities**</span>
+## <span style="color:black">**Geoduck aquaculture requires  the following...**</span>
 ### <span style="color:gray">*Algae, algae... and more algae*</span>
   - <span style="color:gray">**Greenhouse(s) and algae room(s)**</span>: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large-low and small-dense batch cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (large-low density) to 1-2 milllion c-1 ml-1 (small-high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
 
@@ -93,38 +93,26 @@ Trochophore  |  < 1-2 days | NA | NA
 D-hinge & Umbone 'mature' larvae / Prodissoconch I & II  | 2-16 days | 10,000-50,000 (stepwise over time) | small cells; i.e. *Isocrysis*, *Chaetoceros*, *Pavlova*
 Pediveliger / Dissoconch   | 16 - 35 days | 50,000 | small cells; i.e. *Isocrysis*, *Chaetoceros*, *Pavlova*
 Juvenile  |  36 days - 5 to 7 months (preceeding grow-out) | 50,000 | mixed diet (incliude *Tetraselmis*)
-Broodstock (spawning)  |  4-6 years | 50,000-200,0000 | mixed; *Isocrysis* preferred to elicit spawning
+Broodstock (spawning)  |  4-6 years (minimum) | 50,000-200,0000 | mixed; *Isocrysis* preferred to elicit spawning
 
 > *NOTE: Timing of growth and development during early-life stages is largely temperature dependent*
 >   - Goodwin, C. L., & Pease, B. (1989). Species Profiles. Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (Pacific Northwest). Pacific Geoduck Clam. Washington State Dept of Fisheries Brinnon Point Whitney Shellfish Lab.
 >   - Goodwin, C. L. (1973). Effects of salinity and temperature on embryos of the geoduck clam (Panope generosa Gould). In Proceedings of the National Shellfisheries Association (Vol. 63, pp. 93-95).
 
+### <span style="color:gray">*Tank Systems*</span>
 
-#### <span style="color:gray">*Spawning*</span>
-  - <span style="color:gray">**Broodstock tanks**</span>:
+  Life-stage | Age  | Tank type  | Common size(s) (L) | Flow-though (Y/N) | Notes
+--------   | -----| ----  | --- | --- | ---
+Fetilized eggs / embryo   | 0-0.5 days   | larval rearing tank | 5,000 | N | remain static
+Trochophore  |  < 1-2 days | larval rearing tank or conical tank | 250 - 5,000 | N | filters: 20µm banjo filter, light circulation with air/bubbling
+D-hinge & Umbone 'mature' larvae / Prodissoconch I & II  | 2-16 days | upwelling conical tank   | 250 - 750 | Y | filters: increase size as larvae grow, avoid clogging from algae leading to overflow and loss of larvae
+Pediveliger / Dissoconch   | 16 - 35 days | setting table, heathstack, downwellers | 15 - 30 L (tray and tank inserts)  | Y  | high seawater flow; sand added; animal density per tank or tray dependent on surface area; start with 180µm lining and increase as animals grow
+Juvenile  |  36 days - 5 to 7 months (preceeding grow-out) | 15 - 30 L (tray and tank inserts)  |setting table, heathstack | Y | high seawater flow; sand added; animal density per tank or tray dependent on surface area; large sturdy mesh/lining for 3mm shell sizeminimum
+Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ | Y | high seawater flow, no filters needed
 
 
 
-
-#### <span style="color:gray">*Early-life husbandry*</span>
-  - <span style="color:gray">**Larval rearing tanks**</span>:
-
-<img src="Geoduck_aquaculture.assets/LTR.jpg" width="400">
-
-
-  - <span style="color:gray">**Larvae conical tanks**</span>:
-
-<img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="300">
-<img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="300">
-
-#### <span style="color:gray">*Seed production*</span>
-  - <span style="color:gray">**Setting tables**</span>:
-
-<img src="Geoduck_aquaculture.assets/Setting_tables.JPG" width="400">
-
-  - <span style="color:gray">**Upwelling and downwelling tanks**</span>:
-
-<img src="Geoduck_aquaculture.assets/upwellers.JPG" width="400">
+<img src="Geoduck_aquaculture.assets/LTR.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="250"> <img src="Geoduck_aquaculture.assets/Setting_tables.JPG" width="250">  <img src="Geoduck_aquaculture.assets/upwellers.JPG" width="250">
 
 
 
@@ -158,12 +146,15 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 ## <span style="color:green">**I.3 Larvae and Seed**</span>
 
 
-<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="500"> Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish HAtchery, rinsing a 20µm seive with million of D-hinge geoduck larvae.
+<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="400
+">
 
-<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs.JPG" width="250"><img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="250">
+>*PHOTO*: Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive with million of D-hinge geoduck larvae.
 
 
-<img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="500"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="380">
+
+
+<img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="400"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
 
 
 # <span style="color:Green">**II. Broodstock & Spawning Enhancment Stradegies**</span>
@@ -187,11 +178,50 @@ Trait  | Importance in Aquaculture | Technique | Note
 ### <span style="color:green">**II.1.1 General Procedure: Gonad Biopsy**</span>
 about here!
 
-<img src="Geoduck_aquaculture.assets/biopsy.JPG" width="300">
+<img src="Geoduck_aquaculture.assets/biopsy.JPG" width="400">
 
 ### <span style="color:green">**II.1.2 General Procedure: Hemolymph Extraction (Vitellogenin)**</span>
 
-## <span style="color:green">**II.2. Takeaways for Aquaculture**</span>
+
+## <span style="color:Green">**II.2. Strip Spawning**</span>
+
+#### About:
+Strip spawning is a destructive method for spawning geoduck, meaning all chosen animals are dissected and sacraficed. Therefore, is it ideal to both identify the reproductive status and sex during broodstock conditioning (i.e. gonad biopsy and/or hemolymph extraction) and tag animals . As opposed to natural spawning, strip spawning allows hatcheries to plan time and effort fertilization and larval rearing.
+
+#### Steps:
+
+  1. Identify sex and reproductive status of broodstock. Are animals far along and prepared to spawn? Observed eggs and aperm with microscopy. Activate sperm with seawater and cells with be  mobile and easier to see!
+  2. Prepare working space for strip spawning. This includes table space, access to 0.2µm filtered seawater, 20µm seives (2-3), seawater table/large tray, access to compound microscope with slides, pipettes, and beakers.
+  3. Remove chosen males and females from the broodstock tank
+  4. Dissect broodstock tissue along the shells with a curved spatuala and remove the gonad
+  5. With a clean scalpel blade, cut shallow striations/hashes along the entire gonad. Work slowly over a rinsed beaker. Gamete cells will start to secrete from the tissue and drip. You can also use the blunt side of the scalpel to sweep the striations to increase the secreted gametes.
+  6. If strip spawning a female goand, use 0.2µm-filtered seawater in a squirt bottle as you strip spawn. Eggs must be in seawater to ensure viability donstream in this process. In contrast, DO NOT use seawater while strip spawning male gonads. This will activate the sperm and leave them unviable when needed for fertilization. Strip spawn the male gonad without seawater into a dry beaker and leave fridgerated at 12-14C until eggs are prepared for fertilization.
+
+  NOTE: all individuls strip spawned have thier own individual beaker - do not mix gametes
+  7. After a feamle gonad is deplete, add seawater to teh beaker of eggs to hydrate them. Hydrated eggs are nearly perfect circles whereas eggs without seawater will appear elongated.
+  8. Once hydrated, eggs are ready for activation. Add KCl to egg batches to target a concentration of 0.1 M KCl, mix gently, and let sit for 15-20 minutes.
+  9. Rinse egg batches (seperately per individual!) on a 20 µm seive with filtered seawater. The objective of this step is to remove the KCl and prepare eggs for sperm. Rinse eggs off the 20 µm seive into a beaker with 0.2 181m filtered seawater.
+  10. Activate sperm and fertilize eggs with small aliquots of sperm. Use microscopy to check the eggs after sperm is added. Polyspermy must be avoided and occurs when eggs are overencumbered by sperm leading to low fertilization rate. An optimal range is ~10-30 sperm around each egg.
+
+  NOTE: remember to cross all males with all females to increase diversity!
+
+
+#### Photos:
+
+  - Photos below show unhydrated eggs from the strip spawn. Notive that eggs appear elongated and are aggregated.
+
+<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="400"> <img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="400">
+
+  - Photo below shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evently seperated relative to the 'inactivated' eggs in prior photos (above).
+  - Eggs are now prepared for fertlization of activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs. Gonad biopsies for sex identification are critical to plan strip spawning of females and males.
+
+<img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="400">
+
+Only a few hours after sperm is added for fertilization, embryos metamorphose to free-swimming larvae
+
+<img src="Geoduck_aquaculture.assets/eggs.JPG" width="400">
+
+## <span style="color:green">**II.3. Takeaways for Aquaculture**</span>
 associated costs wiith invasive/minimially invasive techniques for reprodutive status
 
 
@@ -201,7 +231,7 @@ about here!
 ## <span style="color:green">**III.1. Ocean Acidification**</span>
 >  *A BOTTLENECK FOR SHELLFISH PRODUCERS*
 
-<img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="500">
+<img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="800">
 
 Hatchery losses in recent years due to ocean acidification demand investigation of adaptive resilience to anthropogenic stressors
 
@@ -209,7 +239,7 @@ Hatchery losses in recent years due to ocean acidification demand investigation 
 ![](Geoduck_aquaculture.assets/quote_2.PNG)
 
 
-<img src="Geoduck_aquaculture.assets/juveniles_screen.JPG" width="500">
+<img src="Geoduck_aquaculture.assets/juveniles_screen.JPG" width="600">
 
  > *THE SOLUTIONS*
 
