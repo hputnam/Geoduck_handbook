@@ -121,7 +121,7 @@ and experience of its personnel.
 
 
 
-<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs.JPG" width="250"><img src="Geoduck_aquaculture.assets/eggs_3_noprime.jpg" width="250">
+<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs.JPG" width="250"><img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="250">
 
 
 <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="500"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="380">
@@ -138,7 +138,7 @@ and experience of its personnel.
 ## <span style="color:gray">**I.2. Broodstock Conditioning & Natural Spawning**</span>
 Broodstock are adult animals either grown or collected for spawning in hatcheries.
 
-<img src="Geoduck_aquaculture.assets/broodstock_drained.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.JPG" width="300">
+<img src="Geoduck_aquaculture.assets/broodstock_drained.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.jpg" width="300">
 
 
 > *FOOD FOR THOUGHT:*
