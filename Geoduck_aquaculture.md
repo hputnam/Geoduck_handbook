@@ -4,8 +4,8 @@
 
 ## <span style="color:gray">**Table of Contents**</span>
   - 1. [About](#About)
-      - 1.1. [Background](#Pacific-geoduck-Panogea-generosa)
-      - 1.2. [Purpose of this handbook](#Why-Read-this-Handbook?)
+      - 1.1. [Purpose of this handbook](#Why-Read-this-Handbook?)
+      - 1.2. [Background](#Pacific-geoduck-Panogea-generosa)
   - 2. [General Practices](#I-General-Rearing-Practices)
       - 2.1. [Hatchery Overview](#I1-The-hatchery)
       - 2.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
@@ -25,22 +25,49 @@
 
 
 # <span style="color:Green">**About**</span>
-Our collaboration between industry and scientists aims to understand and enhance the standard practices of Pacific goeduck sustainable aquaculture in light of climate change.
+  > *A BREIF STATEMENT*
 
-
-This document summarizes our collaborative research and
-describes how are findings are applied to aquaculture industry.
-
-  > *BACKGROUND*
-
-## <span style="color:gray">**Pacific geoduck *Panogea generosa***</span>
-Long-lived infaunal clam (records up to 168 years-of-age) of commercial and ecological importance with a native range from Alaska to Baja, California.
-
-Commercial harvest and aquaculture of geoduck constitutes 27% of the overall shellfish revenue in Washington state and 90% of the global supply
-
-Production of Pacific geoduck in the Pacific Northwest has elevated to satisfy increasing global demand.
+Shellfish aquaculture is essential to prevent overexploitation of wild stock, ensure food security, and meet demands of increasing global trade.
 
 ## <span style="color:gray">**Why Read this Handbook?**</span>
+
+This handbook is the result of collaborative research between Jamestown S'klallam Point Whitney Shellfish Hatchery and researchers from Univeristy of Washington and University of Rhode Island.
+
+  >  ***INSIDE....***
+  >   * *GENERAL INFORMATION*
+      - *breif overview of standard hatchery practice for Pacific geoduck*
+  >   * *TOOLS FOR HATCHERY ENHANCEMENT*
+      - *strip spawning*
+      - *identification of sex and reproductive status*
+  >   * *COMBATING CLIMATE CHANGE!*
+      - *Can '"stress priming" increase tolerance under Ocean Acidification?*
+  >   * *photos, tables, and figures!*
+
+
+## <span style="color:gray">**Pacific geoduck *Panogea generosa***</span>
+
+
+Long-lived infaunal clam (records up to 168 years-of-age) of commercial and ecological importance with a native range from Alaska to Baja, California.
+
+**Importance of Pacific geoduck production**
+  - **Cultural**
+  - **Ecological**
+  - **Economic value**
+    - Total revenue of >$24 million yearly
+    - ~27% of the overall shellfish revenue (in Washington State)
+#### Value of Pacific geoduck
+
+Life-stage | Age  | Price  | Purpose
+--------   | -----| ----  | ---
+Seed   | 5-7 months | $0.15-0.30 each | growers
+Adult  |  4-6 years | >$14 per pound | consumption & broodstock
+
+
+  > *DID YOU KNOW?*
+  - As of 2015, Washington State (USA) alone provided nearly 90% of sustainably-produced Pacific geoduck world-wide!
+
+
+
 
 # <span style="color:Green">**I. General Rearing Practices**</span>
 about here!
@@ -76,7 +103,12 @@ Broodstock are adult animals either grown or collected for spawning in hatcherie
 <img src="Geoduck_aquaculture.assets/broodstock_drained.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.JPG" width="300">
 
 
-
+> *FOOD FOR THOUGHT:*
+  * ***How adult diet & envrionment affects offspring***
+    - Utting, S. D., & Millican, P. F. (1997). Techniques for the hatchery conditioning of bivalve broodstocks and the subsequent effect on egg quality and larval viability. Aquaculture, 155(1-4), 45-54.
+    - Parker, L. M., Ross, P. M., O'Connor, W. A., Borysko, L., Raftos, D. A., & Pörtner, H. O. (2012). Adult exposure influences offspring response to ocean acidification in oysters. Global change biology, 18(1), 82-92.
+    - Parker, L. M., O’Connor, W. A., Raftos, D. A., Pörtner, H. O., & Ross, P. M. (2015). Persistence of positive carryover effects in the oyster, Saccostrea glomerata, following transgenerational exposure to ocean acidification. PLoS One, 10(7).
+    - Parker, L. M., O'Connor, W. A., Byrne, M., Coleman, R. A., Virtue, P., Dove, M., ... & Ross, P. M. (2017). Adult exposure to ocean acidification is maladaptive for larvae of the Sydney rock oyster Saccostrea glomerata in the presence of multiple stressors. Biology letters, 13(2), 20160798.
 
 ## <span style="color:gray">**I.3 Larvae and Seed**</span>
 
@@ -202,7 +234,30 @@ juveniles (3-6 months)                 | | |
 
 # <span style="color:Green">**Acknowledgements**</span>
 
+We thank our funding source the Foundation for Food and Agriculture research; Grant ID: 554012, Development of Environmental Conditioning Practices to Decrease Impacts of Climate Change on Shellfish Aquaculture.
+
+Jamestown S'klallam Tribe & Jamestown Point Whitney Shellfish Hatchery
+
+< insert picture of Kurt and the Jamestown personnel here>
+
 <img src="Geoduck_aquaculture.assets/Mat_and_Josh.JPG" width="500">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### Plasticity:
 ###### a.) phenotype(s)
