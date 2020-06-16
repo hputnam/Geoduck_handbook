@@ -37,14 +37,14 @@ Shellfish aquaculture is essential to prevent overexploitation of wild stock, en
 This handbook is the result of collaborative research between Jamestown S'klallam Point Whitney Shellfish Hatchery and researchers from Univeristy of Washington and University of Rhode Island.
 
   >  ***INSIDE....***
-  >   * *GENERAL INFORMATION*
+##### *GENERAL INFORMATION*
   >    - *breif overview of standard hatchery practice for Pacific geoduck*
-  >   * *TOOLS FOR HATCHERY ENHANCEMENT*
+#####  * *TOOLS FOR HATCHERY ENHANCEMENT*
   >    - *strip spawning*
   >    - *identification of sex and reproductive status*
-  >   * *COMBATING CLIMATE CHANGE!*
+#####  * *COMBATING CLIMATE CHANGE!*
   >    - *Can '"stress priming" increase tolerance under Ocean Acidification?*
-  >   * *photos, tables, and figures!*
+#####   * *photos, tables, and figures!*
 
 
 ## <span style="color:green">**Pacific geoduck *Panogea generosa***</span>
@@ -52,7 +52,7 @@ This handbook is the result of collaborative research between Jamestown S'klalla
 
 Long-lived infaunal clam (recorded up to 168 years-of-age) of cultural, ecological, and economic importance with a native range from Alaska to Baja, California.
 
-  - <span style="color:gray">**Cultural significance of native peoples**</span>:
+  - <span style="color:gray">**Cultural significance for native peoples**</span>:
     - Species such as Pacific geoduck are symbols and resources of native peoples. Regions such as the Pacific Northwest have rich tribal heritage where shellfish are of immense importance encompassing cultural, recreational, subsistance, and commercial value.
 
   - <span style="color:gray">**Economic value**</span>:
