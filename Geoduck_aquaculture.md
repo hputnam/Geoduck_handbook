@@ -1,7 +1,7 @@
   <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:Green">**Pacific Geoduck Aquaculture Handbook**</span>
 
-<img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="500">
+<img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
 
 ## <span style="color:gray">**Table of Contents**</span>
   - 1. [About](#About)
@@ -121,7 +121,7 @@ and experience of its personnel.
 
 
 
-<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs.JPG" width="250"><img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="250">
+<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs.JPG" width="250"><img src="Geoduck_aquaculture.assets/eggs_3_noprime.jpg" width="250">
 
 
 <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="500"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="380">
