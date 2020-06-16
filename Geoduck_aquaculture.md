@@ -138,7 +138,7 @@ and experience of its personnel.
 ## <span style="color:gray">**I.2. Broodstock Conditioning & Natural Spawning**</span>
 Broodstock are adult animals either grown or collected for spawning in hatcheries.
 
-<img src="Geoduck_aquaculture.assets/broodstock_drained.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="300"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.jpg" width="300">
+<img src="Geoduck_aquaculture.assets/broodstock_drained.JPG" width="250"> <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="250"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.jpg" width="250">
 
 
 > *FOOD FOR THOUGHT:*
