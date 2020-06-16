@@ -1,7 +1,7 @@
   <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:Green">**Pacific Geoduck Aquaculture Handbook**</span>
 
-<img src="Geoduck_aquaculture.assets/seed_photo.JPG" width="500">
+<img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="500">
 
 ## <span style="color:gray">**Table of Contents**</span>
   - 1. [About](#About)
