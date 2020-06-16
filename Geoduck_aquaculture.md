@@ -4,24 +4,26 @@
 <img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
 
 ## <span style="color:green">**Table of Contents**</span>
-  - 1. [About](#About)
-      - 1.1. [Purpose of this handbook](#Why-read-this-handbook?)
-      - 1.2. [Background](#Pacific-geoduck-Panogea-generosa)
-  - 2. [General Practices](#I-General-Rearing-Practices)
-      - 2.1. [Hatchery Overview](#I1-The-hatchery)
-      - 2.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
-      - 2.3. [Larvae and Seed](#I.3-Larvae-and-Seed)
-  - 3. [Strip Spawning](#II-Strip-spawning)
-      - 3.1. [General Procedure](#II1-General-Procedures)
-      - 3.2. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
-  - 4. [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
-      - 4.1 [Ocean Acidification](#III1-Ocean-Acidification)
-      - 4.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
-        - 4.2.1 [Broodstock](#Broodstock)
-        - 4.2.1 [Larvae and Juveniles](#Larvae-and-Juveniles)
-      - 4.3 [Summary of Our Findings](#III3-Initial-Tests--Results)
-      - 4.4 [Takeaways for Aquaculture](#IV4-Takeaways-for-Aquaculture)
-  - 5. [Acknowledgements](#Acknowledgements)
+  - [About](#About)
+      - [Purpose of this handbook](#Why-read-this-handbook?)
+      - [Background](#Pacific-geoduck-Panogea-generosa)
+  - [General Practices](#I-General-Rearing-Practices)
+      - I.1. [Hatchery Overview](#I1-The-hatchery)
+      - I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
+      - I.3. [Larvae and Seed](#I.3-Larvae-and-Seed)
+  - [Broodstock & Spawning Enhancment Stradegies](#II-Broodstock--Spawning-Enhancment-Stradegies)
+      - II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
+        - II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
+        - II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-ExtractionVitellogenin)
+      - II.2. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
+  - [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
+      - III.1 [Ocean Acidification](#III1-Ocean-Acidification)
+      - III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
+        - III.2.1 [Broodstock](#Broodstock)
+        - III.2.1 [Larvae and Juveniles](#Larvae-and-Juveniles)
+      - III.3 [Summary of Our Findings](#III3-Initial-Tests--Results)
+      - III.4 [Takeaways for Aquaculture](#IV4-Takeaways-for-Aquaculture)
+  - [Acknowledgements](#Acknowledgements)
 
 
 
@@ -126,24 +128,6 @@ Broodstock (spawning)  |  4-6 years | 50,000-200,0000 | mixed; *Isocrysis* prefe
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## <span style="color:green">**I.2. Broodstock Conditioning & Natural Spawning**</span>
 
 #### Broodstock collection and conditioning:
@@ -162,11 +146,8 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 
 #### How to Induce Natural Spawning:
 
-
-
-
 - **dramaitic increase in diet**: Spikes of algal density can provide the spark technicians need to elicit a planned spawning event. A few gallons of dense batch culture are simply added to broodstock tanks.
-- **simulate tidal cycles / handling stress**: Another method is a short-term exposure out of water. Tanks are rapidly and completely drained. An added benefit of this technique is that broodstock can be removed from the tanks entirely. this permits technicians to wash the tank of faeces and algae biolfilms to ensure optimal conditions for spawning and gamete quality when released. It must be noted that this process is stressful for broodstock and may induce lethal harm if repeated in quick succession or prolonged for extended periods of time.  In combination with diet, high algae culture can be added with the seawater upon re-filling to trigger spawning. 
+- **simulate tidal cycles / handling stress**: Another method is a short-term exposure out of water. Tanks are rapidly and completely drained. An added benefit of this technique is that broodstock can be removed from the tanks entirely. this permits technicians to wash the tank of faeces and algae biolfilms to ensure optimal conditions for spawning and gamete quality when released. It must be noted that this process is stressful for broodstock and may induce lethal harm if repeated in quick succession or prolonged for extended periods of time.  In combination with diet, high algae culture can be added with the seawater upon re-filling to trigger spawning.
 - **add gametes**: An artifact of natural spawning is the common scenario of non-simultaneous release of gametes from both males and females. If either sex has released gametes, a sample of this seawater rich in egg or sperm cells can be added to a broodstock tank to trigger reproductive cues from the opposing sex.
 
 > *PHOTO*: below is an example of a simulated tidal cycle to induce spawning.
@@ -185,7 +166,10 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="500"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="380">
 
 
-# <span style="color:Green">**II. Strip spawning**</span>
+# <span style="color:Green">**II. Broodstock & Spawning Enhancment Stradegies**</span>
+
+## <span style="color:Green">**II.1 Identification of Sex & Reproductive Status**</span>
+
 A major artifact of geoduck aquaculture is the **spontaneous and opportunistic nature of natural spawning events**. For example, an unplanned nighttime natural spawn of a female geoduck set the stage for the growing season at Jamestown Point Whitney Shellfish Hatchery in winter 2019 (*Mat Henderson, personal communication*). Millions of eggs (~30) were released into a single broodstock tank with two dozen other animals (of unknown sex) and under seawater flow-though. In an optimal scenario, technicians would have isolated the spawning female to a static tank to control spawning/fertilization and maximize  egg yield. This event lead to a totally autotomous fertilization process outside of standard 9:00am - 5:00pm work hours. In most cases, spontaneous and unplanned spawning presents major loss in potential profit - luckily, personnel at JPWSH live on site and were able to salvage fertilized embryos.
 
 Losses in production and profit are unfortunately common in shellfish aquaculture. In the story stated above, aquaculture technicians were limited by two main factors:
@@ -198,12 +182,14 @@ Trait  | Importance in Aquaculture | Technique | Note
 ------------- | ------------- | ---------- | ----|
 **Sex of broodstock groups** | avoid spontaneous spawning and fertilization; enhance control of spawning attempts | **gonad biopsy** | invasive sub-lethal
 |  |   |   |
-**Reproductive status** | determine optimal timining for spawning; identify individuals to focus spawning efforts; control and increase diversity| **qPCR vitellogenin**, **gonad biopsy** | minimially invasive; invasive sub-lethal
+**Reproductive status** | determine optimal timining for spawning; identify individuals to focus spawning efforts; control and increase diversity| **hemolymph extraction (vitellogenin)**, **gonad biopsy** | minimially invasive; invasive sub-lethal
 
-## <span style="color:green">**II.1. General Procedures**</span>
+### <span style="color:green">**II.1.1 General Procedure: Gonad Biopsy**</span>
 about here!
 
 <img src="Geoduck_aquaculture.assets/biopsy.JPG" width="300">
+
+### <span style="color:green">**II.1.2 General Procedure: Hemolymph Extraction (Vitellogenin)**</span>
 
 ## <span style="color:green">**II.2. Takeaways for Aquaculture**</span>
 associated costs wiith invasive/minimially invasive techniques for reprodutive status
