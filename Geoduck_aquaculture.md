@@ -76,9 +76,9 @@ The success of shellfish industry is fueled by the hatchery. Here, technicians w
 
 <img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
 
-## <span style="color:gray">**Geouck aquaculture requires  the following facilities**</span>
-### <span style="color:gray">**Algae, algae... and more algae**</span>
-  - **Greenhouse(s) and algae room(s)**: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large-low and small-dense batch cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (large-low density) to 1-2 milllion c-1 ml-1 (small-high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
+## <span style="color:gray">**Geoduck aquaculture requires  the following facilities**</span>
+### <span style="color:gray">**Greenhouse(s) and algae room(s)**</span>
+  - **Algae, algae... and more algae**: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large-low and small-dense batch cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (large-low density) to 1-2 milllion c-1 ml-1 (small-high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
 
 #### <span style="color:gray">**Table: Feed and geoduck life stages**</span>
 
