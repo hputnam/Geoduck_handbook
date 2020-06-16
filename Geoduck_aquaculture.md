@@ -92,8 +92,10 @@ Juvenile  |  36 days - 5 to 7 months (preceeding grow-out) | 50,000 | mixed diet
 Broodstock (spawning)  |  4-6 years | 50,000-200,0000 | mixed; *Isocrysis* preferred to elicit spawning
 
 > *NOTE: Timing of growth and development during early-life stages is largely temperature dependent*
-  - Goodwin, C. L., & Pease, B. (1989). Species Profiles. Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (Pacific Northwest). Pacific Geoduck Clam. Washington State Dept of Fisheries Brinnon Point Whitney Shellfish Lab.
-  - Goodwin, C. L. (1973). Effects of salinity and temperature on embryos of the geoduck clam (Panope generosa Gould). In Proceedings of the National Shellfisheries Association (Vol. 63, pp. 93-95).
+>   - Goodwin, C. L., & Pease, B. (1989). Species Profiles. Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (Pacific Northwest). Pacific Geoduck Clam. Washington State Dept of Fisheries Brinnon Point Whitney Shellfish Lab.
+>   - Goodwin, C. L. (1973). Effects of salinity and temperature on embryos of the geoduck clam (Panope generosa Gould). In Proceedings of the National Shellfisheries Association (Vol. 63, pp. 93-95).
+
+
 #### *Spawning*
   - **Broodstock tanks**:
 
