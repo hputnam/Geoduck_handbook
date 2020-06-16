@@ -53,7 +53,7 @@ Long-lived infaunal clam (records up to 168 years-of-age) of commercial and ecol
   - **Cultural**
   - **Ecological**
   - **Economic value**
-    - Total revenue of >$24 million yearly
+    - Total revenue of >$24 million yearly (in Washington State)
     - ~27% of the overall shellfish revenue (in Washington State)
 #### Value of Pacific geoduck
 
@@ -62,35 +62,70 @@ Life-stage | Age  | Price  | Purpose
 Seed   | 5-7 months | $0.15-0.30 each | growers
 Adult  |  4-6 years | >$14 per pound | consumption & broodstock
 
-
   > *DID YOU KNOW?*
-  - As of 2015, Washington State (USA) alone provided nearly 90% of sustainably-produced Pacific geoduck world-wide!
+  - *As of 2015, Washington State (USA) alone provided nearly 90% of sustainably-produced Pacific geoduck world-wide!*
 
 
 
 
 # <span style="color:Green">**I. General Rearing Practices**</span>
-about here!
-
-
-
-
 
 ## <span style="color:gray">**I.1. The hatchery**</span>
+The success of shellfish industry is fueled by the hatchery. Here, technicians work around to clock to ensure optimal conditions for growth and survival. Below is a cartoon overview of geoduck aquaculture. The hatchery is the site of broodstock reproduction and subseqent husbandry from embryo to juvenile stage.
 
-Reproduction and early development of shellfish are pivotal life stages
+
+<img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
+
+## <span style="color:gray">**Geouck aquaculture requires  the following facilities**</span>
+### <span style="color:gray">**Algae, algae... and more algae**</span>
+  - **Greenhouse(s) and algae room(s)**: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large-low and small-dense batch cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (large-low density) to 1-2 milllion c-1 ml-1 (small-high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
+
+#### <span style="color:gray">**Table: Feed and geoduck life stages**</span>
+
+  Life-stage | Age  | Density (c-1 ml-1)  | Composition (algae species)
+--------   | -----| ----  | ---
+Fetilized eggs / embryo   | 0-0.5 days | NA | NA
+Trochophore  |  < 1-2 days | NA | NA
+D-hinge & Umbone 'mature' larvae / Prodissoconch I & II  | 2-16 days | 10,000-50,000 (stepwise over time) | small cells; i.e. *Isocrysis*, *Chaetoceros*, *Pavlova*
+Pediveliger / Dissoconch   | 16 - 35 days | 50,000 | small cells; i.e. *Isocrysis*, *Chaetoceros*, *Pavlova*
+Juvenile  |  36 days - 5 to 7 months (preceeding grow-out) | 50,000 | mixed diet (incliude *Tetraselmis*)
+Broodstock (spawning)  |  4-6 years | 50,000-200,0000 | mixed; *Isocrysis* preferred to elicit spawning
+
+> *NOTE: Timing of growth and development during early-life stages is largely temperature dependent*
+  - Goodwin, C. L., & Pease, B. (1989). Species Profiles. Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (Pacific Northwest). Pacific Geoduck Clam. Washington State Dept of Fisheries Brinnon Point Whitney Shellfish Lab.
+  - Goodwin, C. L. (1973). Effects of salinity and temperature on embryos of the geoduck clam (Panope generosa Gould). In Proceedings of the National Shellfisheries Association (Vol. 63, pp. 93-95).
+#### *Spawning*
+  - **Broodstock tanks**:
+
+#### *Early-life husbandry*
+  - **Larval rearing tanks**:
+  - **Larvae conical tanks**:
+
+#### *Seed production*
+  - **Setting tables**:
+  - **Upwelling and downwelling tanks**:
+
+
+
+   Reproduction and early development of shellfish are pivotal life stages
 The success of a producer is largely dependent on limitations within the hatchery
 and experience of its personnel.
+
+<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="500"> Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish HAtchery, rinsing a 20µm seive with million of D-hinge geoduck larvae.
+
+
+
+
+
 
 <img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="250"> <img src="Geoduck_aquaculture.assets/eggs.JPG" width="250"><img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="250">
 
 
-<img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="500">
-
-<img src="Geoduck_aquaculture.assets/old_Dhinge_presetters.JPG" width="500">
+<img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="500"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="380">
 
 
-<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="500">
+
+
 
 
 
