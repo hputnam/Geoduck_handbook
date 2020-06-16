@@ -1,10 +1,11 @@
   <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:Green">**Pacific Geoduck Aquaculture Handbook**</span>
-<img src="Geoduck_aquaculture.assets/seed_photo.JPG" width="800">
+
+<img src="Geoduck_aquaculture.assets/seed_photo.JPG" width="500">
 
 ## <span style="color:gray">**Table of Contents**</span>
   - 1. [About](#About)
-      - 1.1. [Purpose of this handbook](#Why-Read-this-Handbook?)
+      - 1.1. [Purpose of this handbook](#Why-read-this-handbook?)
       - 1.2. [Background](#Pacific-geoduck-Panogea-generosa)
   - 2. [General Practices](#I-General-Rearing-Practices)
       - 2.1. [Hatchery Overview](#I1-The-hatchery)
@@ -29,7 +30,7 @@
 
 Shellfish aquaculture is essential to prevent overexploitation of wild stock, ensure food security, and meet demands of increasing global trade.
 
-## <span style="color:gray">**Why Read this Handbook?**</span>
+## <span style="color:gray">**Why read this handbook?**</span>
 
 This handbook is the result of collaborative research between Jamestown S'klallam Point Whitney Shellfish Hatchery and researchers from Univeristy of Washington and University of Rhode Island.
 
