@@ -120,9 +120,9 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 
 
 
-<img src="Geoduck_aquaculture.assets/LTR.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="250">
+<img src="Geoduck_aquaculture.assets/LTR.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="275">
 
-<img src="Geoduck_aquaculture.assets/Setting_tables.jpg" width="250">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="250">
+<img src="Geoduck_aquaculture.assets/Setting_tables.jpg" height="200">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="275">
 
 >*PHOTOS*: Rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Larval rearing tanks, conical tanks, setting tables, and upweller/downweller tanks (left to right).
 
@@ -134,7 +134,7 @@ Broodstock are adult animals either grown or wild caught for spawning in the hat
 
 Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and females release gametes in the water column and rely on the simultaneous release from both sexes for fertilization in open water. In aquaculture, wild or grown broodstock are collected as early as late-Fall and brought to the hatchery. 'Broodstock conditioning' is the process by which hatchery technicians prepare adults for spawning to increase reproductive success and offsrping survival. The timing for 'broodstock conditioning' targets the vital period of 'gametogenesis' or the period during which gametes, especially eggs, are developing and multiplying in adults. A rich diet of algae loaded with essential fats does the trick - it is common to feed broodstock for a few months over gametogenesis before the first attempt at spawning. In addition, a growing field of research suggests that stress from the envrionment can also affect spawning, reproduction, and offsrping survival! (*some resources on this below*)
 
-<img src="Geoduck_aquaculture.assets/adult_broodstock.jpg" width="400">
+<img src="Geoduck_aquaculture.assets/adult_broodstock.jpg" width="275">
 
 > *FOOD FOR THOUGHT:*
   * ***How adult diet & envrionment affects offspring***
@@ -157,7 +157,7 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 ## <span style="color:green">**I.3 Larvae and Seed**</span>
 
 
-<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="400"> <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="400">
+<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="275"> <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="275">
 
 >*PHOTO*: Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive with millions of D-hinge geoduck larvae.
 
@@ -206,7 +206,7 @@ Trait  | Importance in Aquaculture | Technique | Note
 ### <span style="color:green">**II.1.1 General Procedure: Gonad Biopsy**</span>
 about here!
 
-<img src="Geoduck_aquaculture.assets/biopsy.JPG" width="400">
+<img src="Geoduck_aquaculture.assets/biopsy.JPG" width="275">
 
 ### <span style="color:green">**II.1.2 General Procedure: Hemolymph Extraction (Vitellogenin)**</span>
 
@@ -239,16 +239,16 @@ Strip spawning is a destructive method for spawning geoduck, meaning all chosen 
 
   - Photos below show unhydrated eggs from the strip spawn. Notive that eggs appear elongated and are aggregated.
 
-<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="400"> <img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="400">
+<img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="275"> <img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="275">
 
   - Photo below shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evently seperated relative to the 'inactivated' eggs in prior photos (above).
   - Eggs are now prepared for fertlization of activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs. Gonad biopsies for sex identification are critical to plan strip spawning of females and males.
 
-<img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="400">
+<img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="275">
 
 Only a few hours after sperm is added for fertilization, embryos metamorphose to free-swimming larvae
 
-<img src="Geoduck_aquaculture.assets/eggs.JPG" width="400">
+<img src="Geoduck_aquaculture.assets/eggs.JPG" width="275">
 
 ## <span style="color:green">**II.3. Takeaways for Aquaculture**</span>
 associated costs wiith invasive/minimially invasive techniques for reprodutive status
@@ -260,7 +260,7 @@ about here!
 ## <span style="color:green">**III.1. Ocean Acidification**</span>
 >  *A BOTTLENECK FOR SHELLFISH PRODUCERS*
 
-<img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="800">
+<img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="500">
 
 Hatchery losses in recent years due to ocean acidification demand investigation of adaptive resilience to anthropogenic stressors
 
@@ -268,7 +268,7 @@ Hatchery losses in recent years due to ocean acidification demand investigation 
 ![](Geoduck_aquaculture.assets/quote_2.PNG)
 
 
-<img src="Geoduck_aquaculture.assets/juveniles_screen.JPG" width="600">
+<img src="Geoduck_aquaculture.assets/juveniles_screen.JPG" width="500">
 
  > *THE SOLUTIONS*
 
@@ -303,43 +303,9 @@ juveniles (3-6 months)                 | | |
 
 
 
+### Additional photos to place in the handbook....
 
-
-
-
-
-
-
-
-
-
-<img src="Geoduck_aquaculture.assets/exp_2_2.JPG" width="300">
-
-
-
-<img src="Geoduck_aquaculture.assets/beach_outplant.JPG" width="300">
-
-
-
-
-
-<img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="300">
-
-
-
-<img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="300">
-<img src="Geoduck_aquaculture.assets/seed_cup.JPG" width="300">
-
-<img src="Geoduck_aquaculture.assets/seed_exp_2.JPG" width="300">
-
-
-
-
-
-
-
-
-
+<img src="Geoduck_aquaculture.assets/exp_2_2.JPG" width="275"><img src="Geoduck_aquaculture.assets/beach_outplant.JPG" width="275"><img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="275"><img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="275"><img src="Geoduck_aquaculture.assets/seed_cup.JPG" width="275"><img src="Geoduck_aquaculture.assets/seed_exp_2.JPG" width="300">
 
 
 
@@ -353,31 +319,3 @@ Jamestown S'klallam Tribe & Jamestown Point Whitney Shellfish Hatchery
 < insert picture of Kurt and the Jamestown personnel here>
 
 <img src="Geoduck_aquaculture.assets/Mat_and_Josh.JPG" width="500">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### Plasticity:
-###### a.) phenotype(s)
-Broadly defined as **physical traits** expressed by an organism. These traits are reffered to as **"plastic"** becasue of they can **change in response to the envrionment.** Scientists are now engaged in **phenotypic plasticity** to study the  impact of envrionmental conditions and human disturbances  on the fitness and performance of organisms (i.e. ability to survive, grow, and reproduce)
-
-For example, the development or growth rate of a mollusc are critical phenotypic traits and indicators of animal performance in aquaculture. Hatcheries often focus on "plastic" modifications to growth and development (phenotypes) under an array of diets and temperatures (envrionmental condition).
-
-###### b.) Transgenerational plasticity
-Transgenerational plasticity (TGP) is a phenomenon in which parental exposure to an envrionmental condition elicits phenotypic change(s) in their offspring (Kovalchuk 2012; Badyaev 2005). In recent years that has been considerable effort to investigate TGP in response to ocean acidification. **Inheritable stress resiliance** can be an important stradegy for sustainable production.
-
-Long-lived molluscs, such as P. generosa, are incapable of rapid generational turnover on evolutionary timescales to adapt under rapid envrionmental change. TGP, as an acclimatory response, presents a single generation onset of phenotypic modificaitons relative to evolutionary timescales. Investigation of TGP in Pacific geoduck can reveal amaeorative phenotypes to cope with disturabcens such as ocean acidification.
