@@ -38,12 +38,15 @@ This handbook is the result of collaborative research between Jamestown S'klalla
 
   >  ***INSIDE....***
 ##### *GENERAL INFORMATION*
-  >    - *breif overview of standard hatchery practice for Pacific geoduck*
+  - *breif overview of standard hatchery practice for Pacific geoduck*
+
 #####  * *TOOLS FOR HATCHERY ENHANCEMENT*
-  >    - *strip spawning*
-  >    - *identification of sex and reproductive status*
+  - *strip spawning*
+  - *identification of sex and reproductive status*
+
 #####  * *COMBATING CLIMATE CHANGE!*
-  >    - *Can '"stress priming" increase tolerance under Ocean Acidification?*
+  - *Can '"stress priming" increase tolerance under Ocean Acidification?*
+
 #####   * *photos, tables, and figures!*
 
 
@@ -58,30 +61,33 @@ Long-lived infaunal clam (recorded up to 168 years-of-age) of cultural, ecologic
   - <span style="color:gray">**Economic value**</span>:
     - Total revenue of >$24 million yearly (in Washington State)
     - ~27% of the overall shellfish revenue (in Washington State)
+    - Juvenile 'seed' and market-sized adults are the main sources of revenue in geoduck production (*table below*); further details discussed in *I. General Rearing Practices*
 
 
-##### <span style="color:gray">**Production value of Pacific geoduck aquaculture**</span>
-Life-stage | Age  | Price  | Purpose
+##### <span style="color:gray">**Table: Production value of Pacific geoduck aquaculture**</span>
+
+Life-stage | Age  | Price  | Buyers/Purpose
 --------   | -----| ----  | ---
 Seed   | 5-7 months | $0.15-0.30 each | growers
-Adult  |  4-6 years | >$14 per pound | consumption & broodstock
+Adult  |  4-6 years (minimum) | >$14 per pound | consumers (as food) & aquaculture (as broodstock)
 
   > *DID YOU KNOW?*
-  - *As of 2015, Washington State (USA) alone provided nearly 90% of sustainably-produced Pacific geoduck world-wide!*
-
-
-
+  > - *As of 2015, Washington State (USA) alone provided nearly 90% of sustainably-produced Pacific geoduck world-wide!*
 
 # <span style="color:Green">**I. General Rearing Practices**</span>
 
 ## <span style="color:green">**I.1. The hatchery**</span>
-The success of shellfish industry is fueled by the hatchery. Here, technicians work around to clock to ensure optimal conditions for growth and survival. Below is a cartoon overview of geoduck aquaculture. The hatchery is the site of broodstock reproduction and subseqent husbandry from embryo to juvenile stage.
+
+#### Hatchery
+
+Sustainable shellfish industry is fueled by success at the hatchery stage. The critical hatchery stages for geoduck production last nearly 7-8 months from November to May/June to condiioning and spawn adult broodstock and rear larvae to jjuvenile stage ()*table below and cartooon below*). Early-life stages from embryos to early juveniles are highly succeptible to envrionmental conditions and disease. Thus, the overarching goal of technicians is to ensure optimal conditions for growth and survival to maximize production of 'seed' or juvenile clams at a size range of ~4 - 7 mm shell length. This 'seed' stage is ideal for growers becasue  geoduck are actively burrowing and able to cope with the planting process during grow-out.
+
+> *SKILLS AT THE HATCHERY*: At any snapshot in time, a hatchery is pumping massive seawater inflow and sutaining billions of live algae cells and shellfish at various life stages. Reguardless of scale of production (large- versus scall-scale industry), hatchery maintanance demands versitile training and skills in animal husbandry and microalgae culture -- they can also benefit greatly from some ingenuity! (i.e. on-the-spot carpentry and plumbing).
 
 
-<img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
 
-## <span style="color:black">**Geoduck aquaculture requires  the following...**</span>
-### <span style="color:gray">*Algae, algae... and more algae*</span>
+#### <span style="color:black">**Geoduck aquaculture requires  the following...**</span>
+#### <span style="color:gray">**Algae, algae... and more algae**</span>
   - <span style="color:gray">**Greenhouse(s) and algae room(s)**</span>: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large-low and small-dense batch cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (large-low density) to 1-2 milllion c-1 ml-1 (small-high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
 
 #### <span style="color:gray">**Table: Feed and geoduck life stages**</span>
@@ -99,11 +105,15 @@ Broodstock (spawning)  |  4-6 years (minimum) | 50,000-200,0000 | mixed; *Isocry
 >   - Goodwin, C. L., & Pease, B. (1989). Species Profiles. Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (Pacific Northwest). Pacific Geoduck Clam. Washington State Dept of Fisheries Brinnon Point Whitney Shellfish Lab.
 >   - Goodwin, C. L. (1973). Effects of salinity and temperature on embryos of the geoduck clam (Panope generosa Gould). In Proceedings of the National Shellfisheries Association (Vol. 63, pp. 93-95).
 
-### <span style="color:gray">*Tank Systems*</span>
+#### <span style="color:gray">**Tank Systems**</span>
+
+  - <span style="color:gray">**Stage-depedent systems of tanks**</span>: metamorphic transitions of molluscs from embryo-juvenile stages present a series of challenges. Shellfish aquaculture is mindful of critical developmental transitions that require alterntive systems for survival. For example, 'settlement' is the postlarval stage when geoduck transition from free-swimming larvae to an increasingly sessile (not swimming) stage. The planning and timuing of this stage is essential at the hatchery because 'settled' animals will adhere to the sides of the tank and begin crawling. Therefore, the whole system must transition entirely from upwelling conical tanks (commonly used for free-swmming stags) to downwelling or setting systems with sediment to allow anmals to burrow (downwellers, setting tables, heath stacks).
+
+#### <span style="color:gray">**Table: Common hatchery systems for each life stage**</span>
 
   Life-stage | Age  | Tank type  | Common size(s) (L) | Flow-though (Y/N) | Notes
 --------   | -----| ----  | --- | --- | ---
-Fetilized eggs / embryo   | 0-0.5 days   | larval rearing tank | 5,000 | N | remain static
+Fetilized eggs / embryo   | 0-0.5 days   | larval rearing tank | 5,000 | N | remain static, filters: 20µm banjo filter as fail-safe
 Trochophore  |  < 1-2 days | larval rearing tank or conical tank | 250 - 5,000 | N | filters: 20µm banjo filter, light circulation with air/bubbling
 D-hinge & Umbone 'mature' larvae / Prodissoconch I & II  | 2-16 days | upwelling conical tank   | 250 - 750 | Y | filters: increase size as larvae grow, avoid clogging from algae leading to overflow and loss of larvae
 Pediveliger / Dissoconch   | 16 - 35 days | setting table, heathstack, downwellers | 15 - 30 L (tray and tank inserts)  | Y  | high seawater flow; sand added; animal density per tank or tray dependent on surface area; start with 180µm lining and increase as animals grow
@@ -112,8 +122,9 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 
 
 
-<img src="Geoduck_aquaculture.assets/LTR.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="250"> <img src="Geoduck_aquaculture.assets/Setting_tables.JPG" width="250">  <img src="Geoduck_aquaculture.assets/upwellers.JPG" width="250">
+<img src="Geoduck_aquaculture.assets/LTR.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conicals_upweller.jpg" width="250"> <img src="Geoduck_aquaculture.assets/Setting_tables.jpg" width="250">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="250">
 
+>*PHOTOS*: Rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Larval rearing tanks, conical tanks, setting tables, and upweller/downweller tanks (left to right).
 
 
 ## <span style="color:green">**I.2. Broodstock Conditioning & Natural Spawning**</span>
@@ -146,16 +157,33 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 ## <span style="color:green">**I.3 Larvae and Seed**</span>
 
 
-<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="400
-">
+<img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="400"> <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="400">
 
->*PHOTO*: Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive with million of D-hinge geoduck larvae.
+>*PHOTO*: Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive with millions of D-hinge geoduck larvae.
+
+<img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
+
+
+## <span style="color:green">**I.4 Grow-out**</span>
+Hatchery producers work alongside growers to sell  seed for 'grow-out'. 'Grow-out' is the process of planting goeduck on the beach. Once burrowed, geoduck are increasingly sessile, meaning that an individual will borrow deeper at it grows but remain in the same burrow for the rest of its life. The process is fairly simple, three seed are planted on each poitn within a covered PVC or mesh lining to prevent predation for the first year. Once one year in age, it is assumed that survivors are burrowed sufficiently deep in the sediment to remove these barriers and remain untouched for several years until market size (4-7 years!). The commercial value of adult geoduck is primarily driven by consumers and international trade. Large-scale industries  often have the infrastructure and land to both rear and grow their own seed emcompassing all aspects of production, however autotomous growers are also common in the Pacific Northwwest and solely purchase seed from local hatcheries to grow on private land.
 
 
 
+#### <span style="color:gray">**Table: Timeline of geoduck production**</span>
 
-<img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="400"><img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
+Production stage | Setting  | Timeline
+---   | -----| ----
+Spawning & Broodstock conditiong  | Hatchery  | 2-4 months
+Fertilization-juvenile |  Hatchery  |  0 to 5-7 months
+Grow-out  |  Beaches/mudflats  | 4-7 years
 
+<img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
+
+  > *FOOD FOR THOUGHT*: The table and cartoon above demonstrate the timing and significance of the hatchery relative to the grow-out period. As one can see, the hatchery presents a short window (5-7 months) relative to the entire life history of geoduck (up to 168 years) and the market timeline (up tp 7 years).
+  >
+  > **Think...** considering this short opportunity when animals are succeptible (young stages of development) and in the hands of hatchery technicians, what stradegies can be implemented to enhance production?
+  >
+  > (*review 'II.2 Future Solution: Stress Priming' for our stradegy!*)
 
 # <span style="color:Green">**II. Broodstock & Spawning Enhancment Stradegies**</span>
 
