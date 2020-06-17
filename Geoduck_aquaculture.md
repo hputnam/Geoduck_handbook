@@ -214,44 +214,44 @@ about here!
 ## <span style="color:Green">**II.2. Strip Spawning**</span>
 
 #### About:
-Strip spawning is a destructive method for spawning geoduck, meaning all chosen animals are dissected and sacraficed. Therefore, is it ideal to both identify the reproductive status and sex during broodstock conditioning (i.e. gonad biopsy and/or hemolymph extraction) and tag animals . As opposed to natural spawning, strip spawning allows hatcheries to plan time and effort fertilization and larval rearing.
+Strip spawning is a destructive method for spawning geoduck, meaning all chosen animals are dissected and sacrificed. Therefore, is it ideal to both identify the reproductive status and sex during broodstock conditioning (i.e. gonad biopsy and/or hemolymph extraction) and tag animals . As opposed to natural spawning, strip spawning may save both time and effort by planning fertilization and larval rearing.
 
 #### Steps:
 
-  1. Identify sex and reproductive status of broodstock. Are animals far along and prepared to spawn? Observed eggs and aperm with microscopy. Activate sperm with seawater and cells with be  mobile and easier to see!
-  2. Prepare working space for strip spawning. This includes table space, access to 0.2µm filtered seawater, 20µm seives (2-3), seawater table/large tray, access to compound microscope with slides, pipettes, and beakers.
-  3. Remove chosen males and females from the broodstock tank
-  4. Dissect broodstock tissue along the shells with a curved spatuala and remove the gonad
-  5. With a clean scalpel blade, cut shallow striations/hashes along the entire gonad. Work slowly over a rinsed beaker. Gamete cells will start to secrete from the tissue and drip. You can also use the blunt side of the scalpel to sweep the striations to increase the secreted gametes.
-  6. If strip spawning a female goand, use 0.2µm-filtered seawater in a squirt bottle as you strip spawn. Eggs must be in seawater to ensure viability donstream in this process. In contrast, DO NOT use seawater while strip spawning male gonads. This will activate the sperm and leave them unviable when needed for fertilization. Strip spawn the male gonad without seawater into a dry beaker and leave fridgerated at 12-14C until eggs are prepared for fertilization.
+  1. *Weeks before strip spawning* Identify the sex and reproductive status of broodstock. Are animals far along and prepared to spawn? Complete gonad biopsies and use microscopy to observe eggs and sperm. Activate sperm with seawater to assess sperm motility!
+  2. Prepare working space for strip spawning. This includes table space, access to 0.2µm filtered seawater, KCl solution, 20µm seives (2-3), seawater table/large tray, access to compound microscope with slides, pipettes, and beakers.
+  3. Remove chosen males and females from the broodstock tank (identified weeks beforehand with invasive or non invasive reproductive status assessments)
+  4. Dissect broodstock tissu. Cut along the interior shell with a curved spatuala to remove the entire body. Remove the gonad and set aside in a marked position (i.e. a beaker labeled Female # 2)
+  5. With a clean scalpel blade, cut shallow striations/hashes along the entire gonad. Work slowly over a rinsed beaker. Gametes will secrete from the tissue. You can also use the blunt side of the scalpel to sweep the striations to increase secretion and hasten this process.
+  6. If strip spawning a female goand, use 0.2µm-filtered seawater in a squirt bottle as you strip spawn. Eggs must be in seawater to ensure viability downstream. In contrast, DO NOT use seawater while strip spawning male gonads. This will activate the sperm and leave serm cells unviable when used for fertilization. Strip spawn the male gonad without seawater into a dry beaker and leave fridgerated at 12-14C until all eggs are prepared for fertilization.
 
-  NOTE: all individuls strip spawned have thier own individual beaker - do not mix gametes
+  NOTE: all individuals should have a seperate beaker - do not mix gametes
 
-  7. After a feamle gonad is deplete, add seawater to teh beaker of eggs to hydrate them. Hydrated eggs are nearly perfect circles whereas eggs without seawater will appear elongated.
+  7. After a female gonad is deplete, add more seawater to the beaker to hydrate eggs. Hydrated eggs appear as nearly perfect circles under microscopy whereas eggs without seawater will appear elongated. Pippette samples and check them after 5-10 minutes.
   8. Once hydrated, eggs are ready for activation. Add KCl to egg batches to target a concentration of 0.1 M KCl, mix gently, and let sit for 15-20 minutes.
-  9. Rinse egg batches (seperately per individual!) on a 20 µm seive with filtered seawater. The objective of this step is to remove the KCl and prepare eggs for sperm. Rinse eggs off the 20 µm seive into a beaker with 0.2 181m filtered seawater.
-  10. Activate sperm and fertilize eggs with small aliquots of sperm. Use microscopy to check the eggs after sperm is added. Polyspermy must be avoided and occurs when eggs are overencumbered by sperm leading to low fertilization rate. An optimal range is ~10-30 sperm around each egg.
+  9. Rinse egg batches (seperately per individual!) on a 20 µm seive with filtered seawater. The objective of this step is to remove the KCl and prepare eggs for fertilization. Rinse eggs off the 20 µm seive into a beaker with 0.2 µm filtered seawater.
+  10. Activate sperm with seawater and fertilize eggs with small aliquots. Use microscopy to check the eggs after sperm is added (~5-10 minutes). Polyspermy must be avoided and occurs when eggs are overencumbered by sperm leading to low fertilization rate. An optimal range is ~10-30 sperm around each egg.
 
   NOTE: remember to cross all males with all females to increase diversity!
 
 
 #### Photos:
 
-  - Photos below show unhydrated eggs from the strip spawn. Notive that eggs appear elongated and are aggregated.
+  - Photos below show unhydrated eggs from a strip spawn. Notice that eggs appear elongated and are aggregated.
 
 <img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="275"> <img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="275">
 
-  - Photo below shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evently seperated relative to the 'inactivated' eggs in prior photos (above).
-  - Eggs are now prepared for fertlization of activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs. Gonad biopsies for sex identification are critical to plan strip spawning of females and males.
+  - Photo below shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evently seperated relative to the eggs in prior photos (above).
+  - Eggs are now prepared for fertlization of activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs.
 
 <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="275">
 
-Only a few hours after sperm is added for fertilization, embryos metamorphose to free-swimming larvae
+  - embryos metamorphose to free-swimming larvae only a few hours after sperm is added
 
 <img src="Geoduck_aquaculture.assets/eggs.JPG" width="275">
 
 ## <span style="color:green">**II.3. Takeaways for Aquaculture**</span>
-associated costs wiith invasive/minimially invasive techniques for reprodutive status
+  - associated costs wiith invasive/minimially invasive techniques for reprodutive status
 
 
 # <span style="color:Green">**III Climate Change & Aquaculture**</span>
