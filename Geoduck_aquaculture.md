@@ -80,11 +80,9 @@ Adult  |  4-6 years (minimum) | >$14 per pound | consumers (as food) & aquacultu
 
 #### Hatchery
 
-Sustainable shellfish industry is fueled by success at the hatchery stage. The critical hatchery stages for geoduck production last nearly 7-8 months from November to May/June to condiioning and spawn adult broodstock and rear larvae to jjuvenile stage ()*table below and cartooon below*). Early-life stages from embryos to early juveniles are highly succeptible to envrionmental conditions and disease. Thus, the overarching goal of technicians is to ensure optimal conditions for growth and survival to maximize production of 'seed' or juvenile clams at a size range of ~4 - 7 mm shell length. This 'seed' stage is ideal for growers becasue  geoduck are actively burrowing and able to cope with the planting process during grow-out.
+Sustainable shellfish industry is fueled by success at the hatchery stage. The critical hatchery stages for geoduck production last nearly 7-8 months from November to May/June to conditoon and spawn adult broodstock and rear larvae to juvenile 'seed'. Early-life stages from embryos to early juveniles are highly succeptible to envrionmental conditions and disease. Thus, the overarching goal of technicians is to ensure optimal conditions for growth and survival to maximize production of 'seed' of a size ranging ~4 - 7 mm shell length. This 'seed' stage is ideal for growers when geoduck are actively burrowing and able to cope with the planting process during grow-out (*discussed in 'Grow-out' below*).
 
-> *SKILLS AT THE HATCHERY*: At any snapshot in time, a hatchery is pumping massive seawater inflow and sutaining billions of live algae cells and shellfish at various life stages. Reguardless of scale of production (large- versus scall-scale industry), hatchery maintanance demands versitile training and skills in animal husbandry and microalgae culture -- they can also benefit greatly from some ingenuity! (i.e. on-the-spot carpentry and plumbing).
-
-
+> *SKILLS AT THE HATCHERY*: At any snapshot in time, a hatchery is pumping massive amounts of seawater inflow and sutaining billions of live algae cells and shellfish at various life stages. Reguardless of the production scale, hatchery maintanance demands versitile training and skills in animal husbandry and microalgae culture -- they can also benefit greatly from some ingenuity! (i.e. on-the-spot carpentry and plumbing).
 
 #### <span style="color:black">**Geoduck aquaculture requires  the following...**</span>
 #### <span style="color:gray">**Algae, algae... and more algae**</span>
@@ -122,7 +120,9 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 
 
 
-<img src="Geoduck_aquaculture.assets/LTR.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conicals_upweller.jpg" width="250"> <img src="Geoduck_aquaculture.assets/Setting_tables.jpg" width="250">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="250">
+<img src="Geoduck_aquaculture.assets/LTR.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="250"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="250">
+
+<img src="Geoduck_aquaculture.assets/Setting_tables.jpg" width="250">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="250">
 
 >*PHOTOS*: Rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Larval rearing tanks, conical tanks, setting tables, and upweller/downweller tanks (left to right).
 
