@@ -15,7 +15,8 @@
       - II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
         - II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
         - II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
-      - II.2. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
+      - II.2. [Strip Spawning](#II2-Strip-Spawning)
+      - II.3. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
   - [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
       - III.1 [Ocean Acidification](#III1-Ocean-Acidification)
       - III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
@@ -286,16 +287,17 @@ Hatchery losses in recent years due to ocean acidification demand investigation 
 
 Life stage  | Treatment | measurement | response
 ------------- | ------------- | ---------- | ----------
-Broodstock  | 7.8 (ambient) v. constant 6.8 v. oscillating 6.8| survival |
-            |   | fecundity / reproductive success |
-gametes (egg and sperm)                | | lipid index |
-larvae (D-hinge)                       | | |
-larvae (pediveligers)                  | | |
 juveniles (5-10 months)                | pH  = 7.8 (ambient) v. 7.2; Ω arag sat. = 1.3 v. 0.4 | survival   |   no mortality after repeated short-term exposures (6 - 10 days)
-                                       | | metabolism |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
-                                       | | shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
-juveniles (3-6 months)                 | | |
+                                    -   |- | metabolism |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
+                                     -   | -| shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
 
+ life stage  | age  | Stress acclimation (Y/N) | intensity (uatm)  | Repeat exposure (Y/N) | intensity (uatm) | Respiration rate | Shell growth | Tissue growth (AFDW) |Antioxidant capacity |
+ --------: | --------: | --------: | --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
+postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilization  | N  | 900 µatm (ambient) |  N | 900 µatm (ambient)  | - | - | ↓''   | ↑''|
+-|  -| N  | 900 µatm (ambient) | Y  | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''  |
+-|  -|  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
+-|  -|  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
+-|  -|  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
 
 ## <span style="color:green">**IV.4 Takeaways for Aquaculture**</span>
 
