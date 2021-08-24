@@ -5,13 +5,14 @@
 
 ## <span style="color:green">**Table of Contents**</span>
   - [About](#About)
-      - [Purpose of this handbook](#Why-read-this-handbook)
-      - [Background](#Pacific-geoduck-Panogea-generosa)
-  - [General Practices](#I-General-Rearing-Practices)
-      - I.1. [Hatchery Overview](#I1-The-hatchery)
-      - I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
-      - I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
-  - [Broodstock & Spawning Enhancment Stradegies](#II-Broodstock--Spawning-Enhancment-Stradegies)
+  - [Purpose of this handbook](#Why-read-this-handbook)
+  - [Background](#Pacific-geoduck-Panogea-generosa)
+  - I. [General Practices](#I-General-Rearing-Practices)
+    - I.1. [Hatchery Overview](#I1-The-hatchery)
+    - I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
+    - I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
+    - I.4. [Grow out](#I4-Grow-out)
+  - II. [Broodstock & Spawning Enhancment Stradegies](#II-Broodstock--Spawning-Enhancment-Stradegies)
       - II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
         - II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
         - II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
@@ -46,7 +47,7 @@ This handbook is the result of collaborative research between Jamestown S'klalla
   - *identification of sex and reproductive status*
 
 #####  * *COMBATING CLIMATE CHANGE!*
-  - *Can '"stress priming" increase tolerance under Ocean Acidification?*
+  - *can '"stress priming" (or conditioning) increase tolerance to ocean acidification?*
 
 #####   * *photos, tables, and figures!*
 
@@ -58,6 +59,7 @@ Long-lived infaunal clam (recorded up to 168 years-of-age) of cultural, ecologic
 
   - <span style="color:gray">**Cultural significance for native peoples**</span>:
     - Species such as Pacific geoduck are symbols and resources of native peoples. Regions such as the Pacific Northwest have rich tribal heritage where shellfish are of immense importance encompassing cultural, recreational, subsistance, and commercial value.
+
 
   - <span style="color:gray">**Economic value**</span>:
     - Total revenue of >$24 million yearly (in Washington State)
@@ -81,13 +83,13 @@ Adult  |  4-6 years (minimum) | >$14 per pound | consumers (as food) & aquacultu
 
 #### Hatchery
 
-Sustainable shellfish industry is fueled by success at the hatchery stage. The critical hatchery stages for geoduck production last nearly 7-8 months from November to May/June to conditoon and spawn adult broodstock and rear larvae to juvenile 'seed'. Early-life stages from embryos to early juveniles are highly succeptible to envrionmental conditions and disease. Thus, the overarching goal of technicians is to ensure optimal conditions for growth and survival to maximize production of 'seed' of a size ranging ~4 - 7 mm shell length. This 'seed' stage is ideal for growers when geoduck are actively burrowing and able to cope with the planting process during grow-out (*discussed in 'Grow-out' below*).
+Sustainable shellfish industry is fueled by success at the hatchery stage. The critical hatchery stages for geoduck production last nearly 7-8 months from November to May/June to condition and spawn adult broodstock and rear larvae to juvenile 'seed'. Early-life stages from embryos to early juveniles are highly susceptible to environmental conditions and disease. Thus, the overarching goal of technicians is to ensure optimal conditions for growth and survival to maximize production of 'seed' of a size ranging ~4 - 7 mm shell length. This 'seed' stage is ideal for growers when geoduck are actively burrowing and able to cope with the planting process during grow-out (*discussed in 'Grow-out' below*).
 
 > *SKILLS AT THE HATCHERY*: At any snapshot in time, a hatchery is pumping massive amounts of seawater inflow and sutaining billions of live algae cells and shellfish at various life stages. Reguardless of the production scale, hatchery maintanance demands versitile training and skills in animal husbandry and microalgae culture -- they can also benefit greatly from some ingenuity! (i.e. on-the-spot carpentry and plumbing).
 
 #### <span style="color:black">**Geoduck aquaculture requires  the following...**</span>
 #### <span style="color:gray">**Algae, algae... and more algae**</span>
-  - <span style="color:gray">**Greenhouse(s) and algae room(s)**</span>: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large-low and small-dense batch cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (large-low density) to 1-2 milllion c-1 ml-1 (small-high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
+  - <span style="color:gray">**Greenhouse(s) and algae room(s)**</span>: live algae feed is pivotal in hatchery maintanance and production success. Daily, technicians clean, culture, and feed-out both large low-density cultures and small high-density cultures. Typical algae concentrations (cells per milliliter, c-1 ml-1) of the batch cultures range from 50,000 c-1 ml-1 (low density) to 1-2 million c-1 ml-1 (high density). A few important species common to Pacific geoduck aquaculture are *Isocrysis*, *Pavlova*, *Tetraselmis*, and *Chaetoceros*. Feed composition and species density is life-stage dependent for optimal geoduck growth and survivial.
 
 #### <span style="color:gray">**Table: Feed and geoduck life stages**</span>
 
@@ -165,7 +167,7 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 <img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
 
 
-## <span style="color:green">**I.4 Grow-out**</span>
+## <span style="color:green">**I.4 Grow out**</span>
 Hatchery producers work alongside growers to sell  seed for 'grow-out'. 'Grow-out' is the process of planting goeduck on the beach. Once burrowed, geoduck are increasingly sessile, meaning that an individual will borrow deeper at it grows but remain in the same burrow for the rest of its life. The process is fairly simple, three seed are planted on each poitn within a covered PVC or mesh lining to prevent predation for the first year. Once one year in age, it is assumed that survivors are burrowed sufficiently deep in the sediment to remove these barriers and remain untouched for several years until market size (4-7 years!). The commercial value of adult geoduck is primarily driven by consumers and international trade. Large-scale industries  often have the infrastructure and land to both rear and grow their own seed emcompassing all aspects of production, however autotomous growers are also common in the Pacific Northwwest and solely purchase seed from local hatcheries to grow on private land.
 
 
@@ -285,19 +287,39 @@ Hatchery losses in recent years due to ocean acidification demand investigation 
 
 ## <span style="color:green">**III.3 Initial Tests & Results**</span>
 
-Life stage  | Treatment | measurement | response
-------------- | ------------- | ---------- | ----------
-juveniles (5-10 months)                | pH  = 7.8 (ambient) v. 7.2; Ω arag sat. = 1.3 v. 0.4 | survival   |   no mortality after repeated short-term exposures (6 - 10 days)
-                                    -   |- | metabolism |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
-                                     -   | -| shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
+#### (1) Repeat exposure experiment :
 
- life stage  | age  | Stress acclimation (Y/N) | intensity (uatm)  | Repeat exposure (Y/N) | intensity (uatm) | Respiration rate | Shell growth | Tissue growth (AFDW) |Antioxidant capacity |
- --------: | --------: | --------: | --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
-postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilization  | N  | 900 µatm (ambient) |  N | 900 µatm (ambient)  | - | - | ↓''   | ↑''|
--|  -| N  | 900 µatm (ambient) | Y  | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''  |
--|  -|  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
--|  -|  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
--|  -|  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
+![](Geoduck_aquaculture.assets/experiment_design_1.jpg)
+
+Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
+
+**Life stage** : juveniles (5-10 months)  
+**Treatment(s)** : pH  = 7.8 (ambient) v. 7.2; Ω arag sat. = 1.3 v. 0.4
+
+| measurement | response
+ | ---------- | ----------
+| survival   |   no mortality after repeated short-term exposures (6 - 10 days)
+                                   | respiration rate |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
+                                     | shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
+
+#### Summary :
+
+#### (2) Stress conditioning on subsequent response:
+
+![](Geoduck_aquaculture.assets/experiment_design_2.jpg)
+
+Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
+
+**Life stage** : postlarval 'settlement' stage (30 das post-fertilization) to juvenile stage (~5-6 months post-fertilization)
+**Treatment(s)** : conditioning period (ambient = 900 µatm; moderate stress = 3000 µatm); repeated stress after conditioned (ambient, moderate and severe conditions = 900, 3000, 4900 µatm)
+
+| Stress conditioned? (Y/N) | Repeat exposure (Y/N) | intensity (uatm) | Respiration rate | Shell growth | Tissue growth (AFDW) |Antioxidant capacity |
+| --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
+| N  (ambient) | N | 900 µatm (ambient)  | - | - | ↓''   | ↑''|
+| N (ambient)  | Y | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''  |
+| Y (moderate) | N | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
+| Y (moderate) | Y |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
+| Y (moderate) | Y | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
 
 ## <span style="color:green">**IV.4 Takeaways for Aquaculture**</span>
 
