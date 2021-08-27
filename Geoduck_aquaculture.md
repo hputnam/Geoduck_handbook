@@ -1,6 +1,8 @@
   <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
 
+# <span style=color:turquoise>Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
+
 <p align="center">
 <img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
 </p>
