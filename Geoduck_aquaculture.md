@@ -383,11 +383,11 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 
 <span style="color:beige">Results:</span>
 
-| <span style="color:grey">measurement | <span style="color:grey">response
- | ---------- | ----------
-| survival   |   no mortality after repeated short-term exposures (6 - 10 days)
-                                   | respiration rate |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
-                                     | shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
+| <span style="color:grey">measurement | <span style="color:grey">response |
+| ---------- | ---------- |
+| survival   |   no mortality after repeated short-term exposures (6 - 10 days) |
+| respiration rate |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
+| shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
 
 <span style="color:beige">Summary:</span>
 
