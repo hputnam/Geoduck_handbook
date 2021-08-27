@@ -1,7 +1,5 @@
-  <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
+<!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
-
-# <span style=color:turquoise>Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
@@ -135,7 +133,7 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 <img src="Geoduck_aquaculture.assets/LTR.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="275">
 </p>
 
->*PHOTOS*: larval-rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Shown here are large 2k-L tanks used for the initial metamorphosis of fertilized embryos to free-swimming trochophore larvae. This system involved two flat-bottomed conicals that invovle a on-way flow between them so that allow metamorphosed, free-swimming, larvae will eventually stock a single conical whereas delayed/dead embryos remain in the other (left). Center and right are small 250-L conicals used for small batches of larvae - typically hatcheries used larger conicals >=750L conicals for their larvae. At the Jamestown hatchery, these 250-L tanks were used for collaborative experiments.
+>*photo/imageS*: larval-rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Shown here are large 2k-L tanks used for the initial metamorphosis of fertilized embryos to free-swimming trochophore larvae. This system involved two flat-bottomed conicals that invovle a on-way flow between them so that allow metamorphosed, free-swimming, larvae will eventually stock a single conical whereas delayed/dead embryos remain in the other (left). Center and right are small 250-L conicals used for small batches of larvae - typically hatcheries used larger conicals >=750L conicals for their larvae. At the Jamestown hatchery, these 250-L tanks were used for collaborative experiments.
 
 #### <span style="color:beige">Downwellers</span>
 
@@ -143,7 +141,7 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 <img src="Geoduck_aquaculture.assets/Setting_tables.jpg" height="200">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="275"> <img src="Geoduck_aquaculture.assets/heathtray_2.jpg" width="275">
 </p>
 
->*PHOTOS*: Once larvae reach settlement and begin burrowing (indicated by the protruding foot at the pediveliger stage; see I.3 LArvae and Seed, 'Settlement') they are added to  systems such as raceways (left), "three or four-holer downwellers" (center), or heath trays (right). Normally heath trays operate on a flow-over system with seawater ascending top-down in a stack of trays - here (right) heath trays were fitted with a new outflow and inflow to create small-scale downwellers used in collaborative experiments on juvenile geoduck at the hatchery!
+>*photo/imageS*: Once larvae reach settlement and begin burrowing (indicated by the protruding foot at the pediveliger stage; see I.3 LArvae and Seed, 'Settlement') they are added to  systems such as raceways (left), "three or four-holer downwellers" (center), or heath trays (right). Normally heath trays operate on a flow-over system with seawater ascending top-down in a stack of trays - here (right) heath trays were fitted with a new outflow and inflow to create small-scale downwellers used in collaborative experiments on juvenile geoduck at the hatchery!
 
 
 
@@ -158,12 +156,11 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 <img src="Geoduck_aquaculture.assets/adult_broodstock.jpg" width="275">
 </p>
 
-> *FOOD FOR THOUGHT:*
-  * References here to expand upon how diet & the environment affects offspring
-    - Utting, S. D., & Millican, P. F. (1997). Techniques for the hatchery conditioning of bivalve broodstocks and the subsequent effect on egg quality and larval viability. Aquaculture, 155(1-4), 45-54.
-    - Parker, L. M., Ross, P. M., O'Connor, W. A., Borysko, L., Raftos, D. A., & Pörtner, H. O. (2012). Adult exposure influences offspring response to ocean acidification in oysters. Global change biology, 18(1), 82-92.
-    - Parker, L. M., O’Connor, W. A., Raftos, D. A., Pörtner, H. O., & Ross, P. M. (2015). Persistence of positive carryover effects in the oyster, Saccostrea glomerata, following transgenerational exposure to ocean acidification. PLoS One, 10(7).
-    - Parker, L. M., O'Connor, W. A., Byrne, M., Coleman, R. A., Virtue, P., Dove, M., ... & Ross, P. M. (2017). Adult exposure to ocean acidification is maladaptive for larvae of the Sydney rock oyster Saccostrea glomerata in the presence of multiple stressors. Biology letters, 13(2), 20160798.
+> *Food for thought: read the referenced papers below to learn more about how diet & the environment affects bivalve offspring*
+  >  - Utting, S. D., & Millican, P. F. (1997). Techniques for the hatchery conditioning of bivalve broodstocks and the subsequent effect on egg quality and larval viability. Aquaculture, 155(1-4), 45-54.
+  >  - Parker, L. M., Ross, P. M., O'Connor, W. A., Borysko, L., Raftos, D. A., & Pörtner, H. O. (2012). Adult exposure influences offspring response to ocean acidification in oysters. Global change biology, 18(1), 82-92.
+  >  - Parker, L. M., O’Connor, W. A., Raftos, D. A., Pörtner, H. O., & Ross, P. M. (2015). Persistence of positive carryover effects in the oyster, Saccostrea glomerata, following transgenerational exposure to ocean acidification. PLoS One, 10(7).
+  >  - Parker, L. M., O'Connor, W. A., Byrne, M., Coleman, R. A., Virtue, P., Dove, M., ... & Ross, P. M. (2017). Adult exposure to ocean acidification is maladaptive for larvae of the Sydney rock oyster Saccostrea glomerata in the presence of multiple stressors. Biology letters, 13(2), 20160798.
 
 #### <span style="color:beige">How to Induce Natural Spawning:</span>
 
@@ -178,7 +175,7 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
  <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="250"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.jpg" width="250">
 </p>
 
-> *PHOTO*: shown above are adult geoduck in broodstock tank, drained of seawater to simulate a tidal cycle to induce spawning. Animals in this example are placed in individual pvc cups to monitor spawning for an experiment - note that production typically attempts spawns with a much higher numbers of adults.
+> *photo/image*: shown above are adult geoduck in broodstock tank, drained of seawater to simulate a tidal cycle to induce spawning. Animals in this example are placed in individual pvc cups to monitor spawning for an experiment - note that production typically attempts spawns with a much higher numbers of adults.
 
 ## <span style="color:yellowgreen">I.3 Larvae and Seed</span>
 
@@ -197,7 +194,7 @@ Rearing season call for all hands on deck, as embryos and larvae are a tall task
 <img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="275"> <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="275"> <img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
 </p>
 
->*PHOTO*: (left) Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive (lefts) with millions of D-hinge geoduck larvae (center), these will soon develop to umbone 'mature' larvae (right).
+>*photo/image*: (left) Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive (lefts) with millions of D-hinge geoduck larvae (center), these will soon develop to umbone 'mature' larvae (right).
 
 
 #### <span style="color:white">Bottleneck for production:</span>
@@ -242,7 +239,7 @@ Under common ambient temperatures for geoduck production (~14-16 Celcius), larva
  <img src="Geoduck_aquaculture.assets/pediveliger.jpg" width="250">
 </p>
 
-> PHOTO: Now over the hurdle, hatchery personnel take a well-deserved *sigh* of relief when larvae reach the pediveliger stage!
+> photo/image: Now over the hurdle, hatchery personnel take a well-deserved *sigh* of relief when larvae reach the pediveliger stage!
 
 ### <span style="color:beige">Seed:</span>
 
@@ -280,6 +277,18 @@ Grow-out  |  Beaches/mudflats  | 4-7 years
 
 # <span style="color:turquoise">II. Broodstock & Spawning Enhancment Stradegies</span>
 
+Geoduck hatcheries face an array of concerns during the spawning season...
+
+- (1) Sex and reproductive status of adult geoduck
+
+  To spawn adult geoduck, large tanks are stocked at high density of adults and fed high algae density to 'bulk-up' animals' reproductive status (increase development of eggs and sperm). However, unknown to hatchery managers and technicians are the sex distribution of geoduck in their tanks and their reproductive status. These essential factors remain unknown until individuals spawn, revealing their sex and status, or if animals are selected for lethal sampling before spawned. Alternative non-lethal methods can avoid costs associated with lethal sampling and allow hatcheries to sample periodically in preparation for spawn(s).
+
+- (2) Spawning attempts are temperamental
+
+  Spawn days are scheduled, but rarely go as planned. Like a homegrown recipe, hatcheries have their 'secret sauce' during spawning season, consisting of algae slurries, physical disturbance, simulation of tidal cycles, ramping temperature, or a lucky hatchery technician who, for some unknown reason, is the geoduck spawn whisperer (Josh Valley at Jamestown Point Whitney Shellfish). Whichever method deployed on spawn day, geoduck often refuse to produce, leading to frustration and unfruitful allocation of effort (likely financial costs).In an ideal world, the time scheduled to spawn, fertilize, and stock larval-rearing conicals would be predictable and acheivable in a standard work day. In reality, hatchery technicians may spend the day attempting a spawn only to return in the late nigh/early morning hours when individuals sporadically release their gametes.  
+
+**in this section...** we describe a few tools geoduck industry can use to improve the broodstock conditioning and spawning phases - these include non-lethal gonad biopsies and a stepwise outline for strip spawning broodstock.
+
 ## <span style="color:yellowgreen">II.1 Identification of Sex & Reproductive Status</span>
 
 A major artifact of geoduck aquaculture is the **spontaneous and opportunistic nature of natural spawning events**. For example, an unplanned nighttime natural spawn of a female geoduck set the stage for the growing season at Jamestown Point Whitney Shellfish Hatchery in winter 2019 (*Mat Henderson, personal communication*). Millions of eggs (~30) were released into a single broodstock tank with two dozen other animals (of unknown sex) and under seawater flow-though. In an optimal scenario, technicians would have isolated the spawning female to a static tank to control spawning/fertilization and maximize  egg yield. This event lead to a totally autotomous fertilization process outside of standard 9:00am - 5:00pm work hours. In most cases, spontaneous and unplanned spawning presents major loss in potential profit - luckily, personnel at JPWSH live on site and were able to salvage fertilized embryos.
@@ -297,11 +306,37 @@ Trait  | Importance in Aquaculture | Technique | Note
 **Reproductive status** | determine optimal timining for spawning; identify individuals to focus spawning efforts; control and increase diversity| **hemolymph extraction (vitellogenin)**, **gonad biopsy** | minimially invasive; invasive sub-lethal
 
 ### <span style="color:beige">II.1.1 General Procedure: Gonad Biopsy</span>
-about here!
+
+##### <span style="color:beige">About:</span>
+
+To identify the sex of adult geoduck, animals are randomly chosen for dissection of the gonad. This is a common destructive method, meaning selected animals for this assessment are no longer viable for the hatchery. Alternatively, these randomly chosen animals can be placed back into the broodstock tanks and spawned. We tested the practical application of gonad biopsies in a hatchery setting to both identify sex and reproductive status in randomly chosen adult geoduck during spawning season.
+
+##### <span style="color:beige">Steps:</span>
+
+Materials:
+- disposable biopsy punches
+- compound light microscope (40x-1000x magnification)
+- glass slides
+- disposable pipettes (1 ml)
+- kimwipes/paper towels
+- DI water
+
+
+  1. Prepare a wet space and dry space for biopsies (wet) and microscopy (dry)
+  2. Randomly select a group (2-3) of adult geoduck from each tank/population and position in your wet work space noting their order/position to return later the correct tank/treatment/population/etc.
+  3. Select a geoduck for the biopsy, position the siphon facing away and the shell downward. It is easiest to hold the geoduck shell on your palm to perform the biopsy. You should have the pedal gape facing you, tissue facing upward, and siphon facing away (shell in your hand).
+  4. Insert a new biopsy punch into the pedal gape - at ~3-4 cm you should feel a slight resistance from contact with the gonad. Gently push the biopsy tool to perform a punch of the tissue and remove the tool. If performed correctly, a piece of tissue will be captured in the biopsy tool. If no tissue is present, repeat and gently insert further to reach the gonad.
+  5. Dispense the sample on a slide, the sample will likely be both solid (tissue) and aqueous. Using a disposable pipette, transport some of the aqueous sample to another slide for microscopy.
+  6. Focus the compound microscope to view your biopsy sample. What do you see?
+    - eggs = large circular cells about 10um diameter; cells may also be oblong or teardrop-shaped.
+    - sperm = cells are quite small may not be clearly visible! Add a drop a seawater to active the sperm. You may view a static sample come alive as sperm are activated by the seawater and begin moving! Note: this active state is temporary
+  7. Repeat for remaining randomly selected adult geoduck. Make note of their sex and reproductive status. Mark the animals selected for the biopsy to keep track of them leading to spawning - this can save effort and time now knowing both their sex and status!
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/biopsy.JPG" width="275">
 </p>
+
+> photo/image: above shows the removed gonad of an adult geoduck that was chosen for a gonad biopsy before sampled destructively for strip spawning. Note the reduced foot, adult geoduck are sedentary in their burrows and no longer require the ability to dig - thus their foot becomes heavily diminished leaving adults unable to burrow back down!
 
 ### <span style="color:beige">II.1.2 General Procedure: Hemolymph Extraction (Vitellogenin)</span>
 
@@ -337,43 +372,82 @@ Strip spawning is a destructive method for spawning geoduck, meaning all chosen 
 <img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="275"> <img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="275">
 </p>
 
-> - above show unhydrated eggs from a strip spawn. Notice that eggs appear elongated and are aggregated.
+> photo/image: above show unhydrated eggs from a strip spawn. Notice that eggs appear elongated and are aggregated.
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="275">
 </p>
 
-> - above shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evenly seperated relative to the eggs in prior photos (above).
-- eggs are now prepared for fertilization with the activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs.
+> photo/image: above shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evenly seperated relative to the eggs in prior photos (above).
+> eggs are now prepared for fertilization with the activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs.
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/eggs.JPG" width="275">
 </p>
 
->  - embryos metamorphose to free-swimming larvae only a few hours after sperm is added
+>  photo/image: embryos metamorphose to free-swimming larvae only a few hours after sperm is added
 
 
 ## <span style="color:yellowgreen">II.3. Takeaways for Aquaculture</span>
-  - associated costs wiith invasive/minimially invasive techniques for reprodutive status
+
+
+
+In this brief section, we discuss our alternative and non-lethal trials to identify sex in broodstock groups and assess their reproductive status. We also outlined our strip spawn trial that produced viable offspring at the hatchery. Altogether, we found gonad biopsy through the pedal gape successfully identified sex and reproductive status, suggesting that these biopsies are a minimally-invasive and non-lethal alternative to sacrificial sampling. Moreoever,,, **expand here on the vitellogenin work - contact Shelly Trigg to add here if she has info**
+
 
 
 # <span style="color:turquoise">III Climate Change & Aquaculture</span>
-about here!
+
+Climate change exerts growing pressures to marine life and is projected to intensify
+in the near-future.
+
+> *Food for thought*: read the referenced papers below to learn more about the effects of climate change on sustainable shellfish industry and novel methods to combat them!
+>
+>   -  Allison, E. H., Badjeck, M. C., & Meinhold, K. (2011). The implications of global climate   change for molluscan aquaculture. Shellfish aquaculture and the environment, 461-490.
+>   -  Chandhini, S., & Rejish Kumar, V. J. (2019). Transcriptomics in aquaculture: current status and applications. Reviews in Aquaculture, 11(4), 1379-1397.
+>   - Froehlich, H. E., Gentry, R. R., & Halpern, B. S. (2018). Global change in marine aquaculture production potential under climate change. Nature Ecology & Evolution, 2(11), 1745-1750.
+>   - Gavery, M. R., & Roberts, S. B. (2017). Epigenetic considerations in aquaculture. PeerJ, 5, e4147.
+>   - Nascimento‐Schulze, J. C., Bean, T. P., Houston, R. D., Santos, E. M., Sanders, M. B., Lewis, C., & Ellis, R. P. (2021). Optimizing hatchery practices for genetic improvement of marine bivalves. Reviews in Aquaculture.
+>   - Pernet, F., & Browman, H. I. (2021). The future is now: marine aquaculture in the anthropocene.
 
 ## <span style="color:yellowgreen">III.1. Ocean Acidification</span>
->  *A BOTTLENECK FOR SHELLFISH PRODUCERS*
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/OA_slide.jpg" width="500">
+</p>
+
+*Citation(s): Birchenough, S., Williamson, P., Turley, C., (2017).
+Future of the Sea: Ocean Acidification, Government Office
+for Science, 19*
+
+
+In particular, global environmental phenomena such as ocean acidification, or the reduction of ocean pH due to absorption of atmospheric CO2, and increasing marine heat waves are devastating marine life and thus ocean ecosystems. It is estimated that nearly **25% of the carbon dioxide (CO2) emitted by human activity since the industrial revolution has since diffused into the global ocean!** Although the ocean acts naturally as a carbon sink, this excess carbon dioxide results in hypercapnic (high CO2) conditions leading to disruption in the carbon cycle - hydrogen ions in seawater (the H in H2O) disassociates, increase the amount of free H+ in the seawater. Elevated hydrogen ions (H+) **decreases pH**. Similar to the 'buffering' role of the ocean for atmospheric gases, the ocean also buffers against low pH conditions, however this **compromises the availability of calcium and ability to uptake calcium for hard shell organisms!**
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/OA_slide_2.jpg" width="500">
+</p>
+
+*Citation(s): Cai, W. J., Feely, R. A., Testa, J. M., Li, M., Evans, W., Alin, S. R., ... & Bednaršek, N. (2021). Natural and anthropogenic drivers of acidification in large estuaries. Annual Review of Marine Science, 13, 23-55.*
+
+> *An issue close to home...*
+>  - **Ocean acidification is exacerbated in productive coastal systems** such as temperature marine estuaries and bays where high residence time, stratification and eutrophication (coastal run-off enhancing primary productivity) write the perfect recipe for acidification! **Estuarine systems across continental US** (Chesapeake Bay, Puget Sound, Narragansett Bay, Great South Bay, Long Island Sound, etc.) have reported seasonal and daily-cycling low pH conditions especially harmful for calcifying animals!
+
+
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="500">
 </p>
 
-Hatchery losses in recent years due to ocean acidification demand investigation of adaptive resilience to anthropogenic stressors
+
+> *shellfish are at risk, thus aquaculture is forced to adapt!*
+> - Ironically, coastal systems heavily at risk of this human-introduced dilemma are hubs for societal, cultural, and economic importance through sustainable seafood production
+
+
+**Hatchery losses** in recent years due to ocean acidification **demand investigation of adaptive resilience to anthropogenic (human introduced) stressors**
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/quote_1.PNG" width="250"> <img src="Geoduck_aquaculture.assets/quote_2.PNG" width="250">
 </p>
-
- > *THE SOLUTIONS*
 
 
 ## <span style="color:yellowgreen">III.2. Future Solution: Stress Priming</span>
@@ -399,13 +473,13 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 <img src="Geoduck_aquaculture.assets/exp_1.jpg" width="250">
 </p>
 
-> *PHOTO:* ~3-4-month juvenile geoduck in isolated cups to measure respiration rate and shell growth periodically over the repeat exposures (above).
+> *photo/image:* ~3-4-month juvenile geoduck in isolated cups to measure respiration rate and shell growth periodically over the repeat exposures (above).
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/juvenile_2.jpg" width="250">
 </p>
 
-> *PHOTO:* ~9-month-old juvenile geoduck reared under standard hatchery practice in a heath tray after the repeated stress periods (above).
+> *photo/image:* ~9-month-old juvenile geoduck reared under standard hatchery practice in a heath tray after the repeated stress periods (above).
 
 <span style="color:beige">Treatment(s):</span>
 
