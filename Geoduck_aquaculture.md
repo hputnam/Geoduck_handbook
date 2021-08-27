@@ -1,7 +1,9 @@
   <!-- MDTOC maxdepth:6 firsth1:0 numbering:1 flatten:0 bullets:1 updateOnSave:0 -->
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
+</p>
 
 ## <span style="color:turquoise">Table of Contents</span>
   - [About](#About)
@@ -127,13 +129,17 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 
 #### <span style="color:beige">Static systems and Upwellers</span>
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/LTR.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="275">
+</p>
 
 >*PHOTOS*: larval-rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Shown here are large 2k-L tanks used for the initial metamorphosis of fertilized embryos to free-swimming trochophore larvae. This system involved two flat-bottomed conicals that invovle a on-way flow between them so that allow metamorphosed, free-swimming, larvae will eventually stock a single conical whereas delayed/dead embryos remain in the other (left). Center and right are small 250-L conicals used for small batches of larvae - typically hatcheries used larger conicals >=750L conicals for their larvae. At the Jamestown hatchery, these 250-L tanks were used for collaborative experiments.
 
 #### <span style="color:beige">Downwellers</span>
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/Setting_tables.jpg" height="200">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="275"> <img src="Geoduck_aquaculture.assets/heathtray_2.jpg" width="275">
+</p>
 
 >*PHOTOS*: Once larvae reach settlement and begin burrowing (indicated by the protruding foot at the pediveliger stage; see I.3 LArvae and Seed, 'Settlement') they are added to  systems such as raceways (left), "three or four-holer downwellers" (center), or heath trays (right). Normally heath trays operate on a flow-over system with seawater ascending top-down in a stack of trays - here (right) heath trays were fitted with a new outflow and inflow to create small-scale downwellers used in collaborative experiments on juvenile geoduck at the hatchery!
 
@@ -146,7 +152,9 @@ Broodstock are adult animals either grown or wild caught for spawning in the hat
 
 Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and females release gametes in the water column and rely on the simultaneous release from both sexes for fertilization in open water. In aquaculture, wild or grown broodstock are collected as early as late-Fall and brought to the hatchery. 'Broodstock conditioning' is the process by which hatchery technicians prepare adults for spawning to increase reproductive success and offsrping survival. The timing for 'broodstock conditioning' targets the vital period of 'gametogenesis' or the period during which gametes, especially eggs, are developing and multiplying in adults. A rich diet of algae loaded with essential fats does the trick - it is common to feed broodstock for a few months over gametogenesis before the first attempt at spawning. In addition, a growing field of research suggests that stress from the envrionment can also affect spawning, reproduction, and offsrping survival! (*some resources on this below*)
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/adult_broodstock.jpg" width="275">
+</p>
 
 > *FOOD FOR THOUGHT:*
   * References here to expand upon how diet & the environment affects offspring
@@ -164,8 +172,9 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 - ##### <span style="color:white">add gametes:</span>
  An artifact of natural spawning is the common scenario of non-simultaneous release of gametes from both males and females. If either sex has released gametes, a sample of this seawater rich in egg or sperm cells can be added to a broodstock tank to trigger additional individuals to spawn. A major caveat here is that you will likley have successful fertilization in the borodstock tank (added sperm activated female to release eggs), thus removing and isolating spawning individuals to a bucket/isolation tank can allow a hatchery to control fertilization and optimize genetic diversity.
 
-
+<p align="center">
  <img src="Geoduck_aquaculture.assets/broodstock_partially_filled.JPG" width="250"> <img src="Geoduck_aquaculture.assets/broodstock_submerged.jpg" width="250">
+</p>
 
 > *PHOTO*: shown above are adult geoduck in broodstock tank, drained of seawater to simulate a tidal cycle to induce spawning. Animals in this example are placed in individual pvc cups to monitor spawning for an experiment - note that production typically attempts spawns with a much higher numbers of adults.
 
@@ -182,7 +191,9 @@ Rearing season call for all hands on deck, as embryos and larvae are a tall task
 - Have the larvae survived/What are their numbers compared to the previous stage?
 - Are we (the hatchery/business) meeting our production timeline?
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="275"> <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="275"> <img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
+</p>
 
 >*PHOTO*: (left) Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive (lefts) with millions of D-hinge geoduck larvae (center), these will soon develop to umbone 'mature' larvae (right).
 
@@ -225,9 +236,9 @@ Review I.1 The hatchery, for pictures and details
 
 Under common ambient temperatures for geoduck production (~14-16 Celcius), larvae reach 'settlement' at around 28-30 days after fertilization. Whereas each proceeding metamorphic stage during larval rearing can yield major losses, the settlement stages have greater survivorship and higher tolerance to stress!
 
-
-
+<p align="center">
  <img src="Geoduck_aquaculture.assets/pediveliger.jpg" width="250">
+</p>
 
 > PHOTO: Now over the hurdle, hatchery personnel take a well-deserved *sigh* of relief when larvae reach the pediveliger stage!
 
@@ -235,15 +246,17 @@ Under common ambient temperatures for geoduck production (~14-16 Celcius), larva
 
  *The product stage!*
 
-
+<p align="center">
  <img src="Geoduck_aquaculture.assets/seed_exp_2.jpg" width="250">  <img src="Geoduck_aquaculture.assets/juveniles.jpg" width="250">  <img src="Geoduck_aquaculture.assets/juvenile_2.jpg" width="250">
-
+</p>
 
 ## <span style="color:yellowgreen">I.4 Grow out</span>
 
+<p align="center">
+<img src="Geoduck_aquaculture.assets/beach_outplant.JPG" width="400">
+</p>
+
 Hatchery producers work alongside growers to sell  seed for 'grow-out'. 'Grow-out' is the process of planting goeduck on the beach. Once burrowed, geoduck are increasingly sessile, meaning that an individual will borrow deeper at it grows but remain in the same burrow for the rest of its life. The process is fairly simple, three seed are planted on each poitn within a covered PVC or mesh lining to prevent predation for the first year. Once one year in age, it is assumed that survivors are burrowed sufficiently deep in the sediment to remove these barriers and remain untouched for several years until market size (4-7 years!). The commercial value of adult geoduck is primarily driven by consumers and international trade. Large-scale industries  often have the infrastructure and land to both rear and grow their own seed emcompassing all aspects of production, however autotomous growers are also common in the Pacific Northwwest and solely purchase seed from local hatcheries to grow on private land.
-
-
 
 <span style="color:beige">Table: Timeline of geoduck production</span>
 
@@ -253,7 +266,9 @@ Spawning & Broodstock conditiong  | Hatchery  | 2-4 months
 Fertilization-juvenile |  Hatchery  |  0 to 5-7 months
 Grow-out  |  Beaches/mudflats  | 4-7 years
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
+</p>
 
   > *FOOD FOR THOUGHT*: The table and cartoon above demonstrate the timing and significance of the hatchery relative to the grow-out period. As one can see, the hatchery presents a short window (5-7 months) relative to the entire life history of geoduck (up to 168 years) and the market timeline (up tp 7 years!!).
   >
@@ -282,7 +297,9 @@ Trait  | Importance in Aquaculture | Technique | Note
 ### <span style="color:beige">II.1.1 General Procedure: Gonad Biopsy</span>
 about here!
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/biopsy.JPG" width="275">
+</p>
 
 ### <span style="color:beige">II.1.2 General Procedure: Hemolymph Extraction (Vitellogenin)</span>
 
@@ -314,16 +331,22 @@ Strip spawning is a destructive method for spawning geoduck, meaning all chosen 
 
 #### Photos:
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/eggs_1.JPG" width="275"> <img src="Geoduck_aquaculture.assets/eggs_3_noprime.JPG" width="275">
+</p>
 
 > - above show unhydrated eggs from a strip spawn. Notice that eggs appear elongated and are aggregated.
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/eggs_2.JPG" width="275">
+</p>
 
 > - above shows strip-spawned eggs both hydrated and activated with KCl. These 'primed' eggs are nearly perfect circles due to hydration and appear evenly seperated relative to the eggs in prior photos (above).
 - eggs are now prepared for fertilization with the activated sperm. Sperm is activated rapidly by adding seawater. It must be noted that sperm viability is best after initial activation. To increase successful fertilization, sperm should be activated immediately prior to being added to batches of eggs.
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/eggs.JPG" width="275">
+</p>
 
 >  - embryos metamorphose to free-swimming larvae only a few hours after sperm is added
 
@@ -338,13 +361,15 @@ about here!
 ## <span style="color:yellowgreen">III.1. Ocean Acidification</span>
 >  *A BOTTLENECK FOR SHELLFISH PRODUCERS*
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="500">
+</p>
 
 Hatchery losses in recent years due to ocean acidification demand investigation of adaptive resilience to anthropogenic stressors
 
-
-<img src="Geoduck_aquaculture.assets/quote_1.PNG" width="300"> <img src="Geoduck_aquaculture.assets/quote_2.PNG" width="300">
-
+<p align="center">
+<img src="Geoduck_aquaculture.assets/quote_1.PNG" width="250"> <img src="Geoduck_aquaculture.assets/quote_2.PNG" width="250">
+</p>
 
  > *THE SOLUTIONS*
 
@@ -358,7 +383,9 @@ Hatchery losses in recent years due to ocean acidification demand investigation 
 
 #### <span style="color:beige">(1) Repeat exposure experiment:</span>
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/experiment_design_1.jpg" height="300">
+</p>
 
 Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
 
@@ -366,11 +393,15 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 
 - juveniles, 5-10 months post-fertilization
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/exp_1.jpg" width="250">
+</p>
 
 > *PHOTO:* ~3-4-month juvenile geoduck in isolated cups to measure respiration rate and shell growth periodically over the repeat exposures (above).
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/juvenile_2.jpg" width="250">
+</p>
 
 > *PHOTO:* ~9-month-old juvenile geoduck reared under standard hatchery practice in a heath tray after the repeated stress periods (above).
 
@@ -393,14 +424,17 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 
 #### <span style="color:beige">(2) Stress conditioning on subsequent response:</span>
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/experiment_design_2.jpg" height="300">
+</p>
 
 Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
 
 **Life stage** : postlarval 'settlement' stage (30 das post-fertilization) to juvenile stage (~5-6 months post-fertilization)
 
-<img src="Geoduck_aquaculture.assets/exp_2.jpg" width="250">
-
+<p align="center">
+<img src="Geoduck_aquaculture.assets/exp_2.jpg" width="275"><img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="275">
+</p>
 
 **Treatment(s)** : conditioning period (ambient = 900 µatm; moderate stress = 3000 µatm); repeated stress after conditioned (ambient, moderate and severe conditions = 900, 3000, 4900 µatm)
 
