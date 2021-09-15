@@ -8,57 +8,58 @@
 </p>
 
 # <span style="color:turquoise">Table of Contents</span>
-##  [About](#About)
 
-##  [Purpose of this handbook](#Why-read-this-handbook)
+  ##  [About](#About)
 
-##  [Background](#Pacific-geoduck-Panogea-generosa)
+  ##  [Purpose of this handbook](#Why-read-this-handbook)
 
-## I. [General Rearing Practices](#I-General-Rearing-Practices)
+  ##  [Background](#Pacific-geoduck-Panogea-generosa)
 
-- ###  I.1. [Hatchery Overview](#I1-The-hatchery)
+  ## I. [General Rearing Practices](#I-General-Rearing-Practices)
 
-- ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
+  - ###  I.1. [Hatchery Overview](#I1-The-hatchery)
 
-- ###  I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
+  - ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
 
-- ###  I.4. [Grow out](#I4-Grow-out)
+  - ###  I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
 
-- ###  I.5. [Production enhancement](#I5-Production-enhancement)
+  - ###  I.4. [Grow out](#I4-Grow-out)
 
-##  II. [Broodstock & Spawning Enhancement Strategies](#II-Broodstock--Spawning-Enhancement-Strategies)
+  - ###  I.5. [Production enhancement](#I5-Production-enhancement)
 
-- ###  II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
+  ##  II. [Broodstock & Spawning Enhancement Strategies](#II-Broodstock--Spawning-Enhancement-Strategies)
 
-  - ###  II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
+  - ###  II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
 
-  - ### II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
+    - ###  II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
 
-- ###   II.2. [Strip Spawning](#II2-Strip-Spawning)
+    - ### II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
 
-- ###  II.3. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
+  - ###   II.2. [Strip Spawning](#II2-Strip-Spawning)
 
-##  III. [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
+  - ###  II.3. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
 
-- ###  III.1 [Ocean Acidification](#III1-Ocean-Acidification)
+  ##  III. [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
 
-- ###  III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
+  - ###  III.1 [Ocean Acidification](#III1-Ocean-Acidification)
 
-  - ###  III.2.1.1 [Broodstock](#Broodstock)
+  - ###  III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
 
-      ###  a. [Gonad histology of conditioned broodstock](#a-Gonad-histology-of-conditioned-broodstock)    
+    - ###  III.2.1.1 [Broodstock](#Broodstock)
 
-  - ###  III.2.1.2 [Larvae and Juveniles](#Larvae-and-Juveniles)
+        ###  a. [Gonad histology of conditioned broodstock](#a-Gonad-histology-of-conditioned-broodstock)    
 
-      ###  a. [Acute exposure and carryover effects](#a-Repeat-exposure-experiment)
+    - ###  III.2.1.2 [Larvae and Juveniles](#Larvae-and-Juveniles)
 
-      ###  b. [Stress conditioning on subsequent response](#b-Stress-conditioning-on-subsequent-response)
+        ###  a. [Acute exposure and carryover effects](#a-Repeat-exposure-experiment)
 
-      ###  c. [Gene expression and stress priming](#c-Gene-expression-of-naive-v-stressprimed-clams)
+        ###  b. [Stress conditioning on subsequent response](#b-Stress-conditioning-on-subsequent-response)
 
-- ###  III.3 [Takeaways for Aquaculture](#III3-Takeaways-for-Aquaculture)
+        ###  c. [Gene expression and stress priming](#c-Gene-expression-of-naive-v-stressprimed-clams)
 
-## [Acknowledgements](#Acknowledgements)
+  - ###  III.3 [Takeaways for Aquaculture](#III3-Takeaways-for-Aquaculture)
+
+  ## [Acknowledgements](#Acknowledgements)
 
 
 
