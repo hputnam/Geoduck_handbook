@@ -45,11 +45,11 @@
 
   - ###  III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
 
-    - ###  III.2.1.1 [Broodstock](#Broodstock)
+    - ###  III.2.1.1 [Broodstock](#III211-Broodstock)
 
         ###  a. [Gonad histology of conditioned broodstock](#a-Gonad-histology-of-conditioned-broodstock)    
 
-    - ###  III.2.1.2 [Larvae and Juveniles](#Larvae-and-Juveniles)
+    - ###  III.2.1.2 [Larvae and Juveniles](#III212-Larvae-and-Juveniles)
 
         ###  a. [Acute exposure and carryover effects](#a-Repeat-exposure-experiment)
 
