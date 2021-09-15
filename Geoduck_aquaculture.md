@@ -19,7 +19,7 @@
 
   - ###  I.1. [Hatchery Overview](#I1-The-hatchery)
 
-  - ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning-&-Natural-Spawning)
+  - ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
 
   - ###  I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
 
