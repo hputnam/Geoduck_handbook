@@ -640,7 +640,17 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 | respiration rate |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
 | shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
 
+<p align="center">
+<img src="Geoduck_aquaculture.assets/ConsPhysMS_carryover.jpg" height="500">
+</p>
+
+> *figure:* Shell length and respiration rate data nearly ~5 months after exposed to repeated OA stress. Here we see animals that experienced early-life stress periods were larger and have higher respiration rate - from Gurr et al. 2020
+
 #### <span style="color:beige">Summary:</span>
+
+We sound evidence that juvenile Pacific geoduck have a high capacity to cope with short-term acidification. All tested animals survived the 30-day experiment demonstrating resilience to low pH and reduced carbonate saturation.
+
+Under an initial acute stress for 10 days, juvenile geoduck exhibited metabolic depression, but recovered from this status under repeated stress. Moreover, animals repeatedly exposure to OA stress were significantly smaller than controls, but showed compensatory growth after 5 months under ambient conditions surpassing the shell length of controls. This suggesting stress ‘memory’ and compensatory growth as possible benefits of early stress priming!
 
 ### <span style="color:beige"> b) Stress conditioning on subsequent response:</span>
 
@@ -681,6 +691,12 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 | Y (moderate) | N | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
 | Y (moderate) | Y |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
 | Y (moderate) | Y | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/SubseqExpMS_TAOC.jpg" width="500"><img src="Geoduck_aquaculture.assets/SubseqExpMS_Length.jpg" width="500">
+</p>
+
+> *figure:* Total antioxidant capacity (top) and shell length (bottom) of juvenile pacific geoduck either naive ('primary ambient') or stress-primed (primary moderate) during pediveliger development and reexposed to a second stress period (A) and a third stress period (B) - from Gurr et al. 2021
 
 #### <span style="color:beige">Summary:</span>
 
