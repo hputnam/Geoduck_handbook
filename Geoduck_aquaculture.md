@@ -5,29 +5,58 @@
 <img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
 </p>
 
-## <span style="color:turquoise">Table of Contents</span>
-  - [About](#About)
-  - [Purpose of this handbook](#Why-read-this-handbook)
-  - [Background](#Pacific-geoduck-Panogea-generosa)
-  - I. [General Practices](#I-General-Rearing-Practices)
-    - I.1. [Hatchery Overview](#I1-The-hatchery)
-    - I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
-    - I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
-    - I.4. [Grow out](#I4-Grow-out)
-  - II. [Broodstock & Spawning Enhancment Stradegies](#II-Broodstock--Spawning-Enhancment-Stradegies)
-      - II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
-        - II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
-        - II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
-      - II.2. [Strip Spawning](#II2-Strip-Spawning)
-      - II.3. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
-  - [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
-      - III.1 [Ocean Acidification](#III1-Ocean-Acidification)
-      - III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
-        - III.2.1 [Broodstock](#Broodstock)
-        - III.2.1 [Larvae and Juveniles](#Larvae-and-Juveniles)
-      - III.3 [Summary of Our Findings](#III3-Initial-Tests--Results)
-      - III.4 [Takeaways for Aquaculture](#IV4-Takeaways-for-Aquaculture)
-  - [Acknowledgements](#Acknowledgements)
+# <span style="color:turquoise">Table of Contents</span>
+##  [About](#About)
+
+##  [Purpose of this handbook](#Why-read-this-handbook)
+
+##  [Background](#Pacific-geoduck-Panogea-generosa)
+
+## I. [General Rearing Practices](#I-General-Rearing-Practices)
+
+- ###  I.1. [Hatchery Overview](#I1-The-hatchery)
+
+- ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
+
+- ###  I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
+
+- ###  I.4. [Grow out](#I4-Grow-out)
+
+- ###  I.5. [Production enhancement](#I5-Production-enhancement)
+
+##  II. [Broodstock & Spawning Enhancement Strategies](#II-Broodstock--Spawning-Enhancement-Strategies)
+
+- ###  II.1 [Identification of Sex & Reproductive Status](#II1-Identification-of-Sex--Reproductive-Status)
+
+  - ###  II.1.1 [Gonad Biopsy](#II11-General-Procedure-Gonad-Biopsy)
+
+  - ### II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
+
+- ###   II.2. [Strip Spawning](#II2-Strip-Spawning)
+
+- ###  II.3. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
+
+##  III. [Climate Change & Aquaculture](#III-Climate-Change--Aquaculture)
+
+- ###  III.1 [Ocean Acidification](#III1-Ocean-Acidification)
+
+- ###  III.2 [Stress Priming](#III2-Future-Solution-Stress-Priming)
+
+  - ###  III.2.1.1 [Broodstock](#Broodstock)
+
+      ###  a. [Gonad histology of conditioned broodstock](#a-Gonad-histology-of-conditioned-broodstock)    
+
+  - ###  III.2.1.2 [Larvae and Juveniles](#Larvae-and-Juveniles)
+
+      ###  a. [Acute exposure and carryover effects](#a-Repeat-exposure-experiment)
+
+      ###  b. [Stress conditioning on subsequent response](#b-Stress-conditioning-on-subsequent-response)
+
+      ###  c. [Gene expression and stress priming](#c-Gene-expression-of-naive-v-stressprimed-clams)
+
+- ###  III.3 [Takeaways for Aquaculture](#III3-Takeaways-for-Aquaculture)
+
+## [Acknowledgements](#Acknowledgements)
 
 
 
@@ -133,7 +162,7 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 <img src="Geoduck_aquaculture.assets/LTR.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conical_larvae_banjo.jpg" width="275"> <img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="275">
 </p>
 
->*photo/imageS*: larval-rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Shown here are large 2k-L tanks used for the initial metamorphosis of fertilized embryos to free-swimming trochophore larvae. This system involved two flat-bottomed conicals that invovle a on-way flow between them so that allow metamorphosed, free-swimming, larvae will eventually stock a single conical whereas delayed/dead embryos remain in the other (left). Center and right are small 250-L conicals used for small batches of larvae - typically hatcheries used larger conicals >=750L conicals for their larvae. At the Jamestown hatchery, these 250-L tanks were used for collaborative experiments.
+>*photo/image*: larval-rearing tanks at Jamestown Point Whitney Shellfish Hatchery in Brinnon, WA (USA). Shown here are large 2k-L tanks used for the initial metamorphosis of fertilized embryos to free-swimming trochophore larvae. This system involved two flat-bottomed conicals that invovle a on-way flow between them so that allow metamorphosed, free-swimming, larvae will eventually stock a single conical whereas delayed/dead embryos remain in the other (left). Center and right are small 250-L conicals used for small batches of larvae - typically hatcheries used larger conicals >=750L conicals for their larvae. At the Jamestown hatchery, these 250-L tanks were used for collaborative experiments.
 
 #### <span style="color:beige">Downwellers</span>
 
@@ -141,7 +170,7 @@ Broodstock (spawning)  |  4-6 years (minimum) | large rectangular tanks | 200+ |
 <img src="Geoduck_aquaculture.assets/Setting_tables.jpg" height="200">  <img src="Geoduck_aquaculture.assets/upwellers.jpg" width="275"> <img src="Geoduck_aquaculture.assets/heathtray_2.jpg" width="275">
 </p>
 
->*photo/imageS*: Once larvae reach settlement and begin burrowing (indicated by the protruding foot at the pediveliger stage; see I.3 LArvae and Seed, 'Settlement') they are added to  systems such as raceways (left), "three or four-holer downwellers" (center), or heath trays (right). Normally heath trays operate on a flow-over system with seawater ascending top-down in a stack of trays - here (right) heath trays were fitted with a new outflow and inflow to create small-scale downwellers used in collaborative experiments on juvenile geoduck at the hatchery!
+>*photo/image*: Once larvae reach settlement and begin burrowing (indicated by the protruding foot at the pediveliger stage; see I.3 LArvae and Seed, 'Settlement') they are added to  systems such as raceways (left), "three or four-holer downwellers" (center), or heath trays (right). Normally heath trays operate on a flow-over system with seawater ascending top-down in a stack of trays - here (right) heath trays were fitted with a new outflow and inflow to create small-scale downwellers used in collaborative experiments on juvenile geoduck at the hatchery!
 
 
 
@@ -196,40 +225,13 @@ Rearing season call for all hands on deck, as embryos and larvae are a tall task
 
 >*photo/image*: (left) Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive (lefts) with millions of D-hinge geoduck larvae (center), these will soon develop to umbone 'mature' larvae (right).
 
-
-#### <span style="color:white">Bottleneck for production:</span>
-
-*These little ones are a picky bunch!* Larvae are **highly susceptible** to a wide variety of stressors (e.g. diet, temperature, pH, salinity, pathogens, etc.). Hatcheries face major losses and occasionally ubiquitous mortality of entire cohorts due to even subtle changes!
-
-Below are several common methods to improve production:
-
-- ##### <span style="color:white">Water quality monitoring</span>
-hatchery personnel can not change seawater conditions out in the bay or estuary, but they can improve awareness of changes in *real-time!*. Recent research in the Pacific Northwest of the United States found seawater low in aragonite saturation state and pH caused shell malformations and mortality of Pacific oyster larvae. To remedy this issue, an Oregon (USA) hatchery deployed water chemistry sensors to monitory their inflow and the coastal conditions - this allowed hatchery personnel to adjust the timing of their pumps to avoid corrosive seawater with a low pH!
-
-- ##### <span style="color:white">Buffering</span>
-in some cases, the hatchery can alter the seawater below exposing animals to potential harm. Sodium bicarbonate is an example of a chemical bioremediation strategy to avoid exposing shellfish to low pH conditions. As a popular method to cope with low pH seawater, hatcheries mix the inflow with sodium bicarbonate to raise the pH and aragonite saturation state to allow the shellfish to build their shells and develop normally. This technique has shown great success, boosting production by 30-50% in areas susceptible to ocean acidification!
-
-- ##### <span style="color:white">Culling</span>
-as larvae develop and tanks are periodically drained to count them and maintain their tanks, the slow growers (runts) are set aside or removed. The omission of these animals is called culling. Hatcheries perform culling as a common housekeeping process to reach their production timeline and avoid further - this is especially prevalent in larger industry hatcheries that can cut their losses with the space to accommodate the slower-growing larvae. However, small-business hatcheries may not afford to cull larvae or an only apply more conservative thresholds.
-
-- ##### <span style="color:white">Selective breeding</span>
-this strategy targets resilient strains (e.g. disease and environmental stressors) and economic traits (e.g. faster growers) to improve production. Broodstock with are selected due to their better survivorship for developmental rate, for examples, to produce offspring under the assumption that the probability is higher that offspring will express the same attributes.
-
--  ##### <span style="color:pink">*Warning!*</span>, enhancement does not come without cons...
-culling may result in a **genetic bottleneck** (faster growers are from one parental line/population) and adds a **human bias** as slower growers may outpace others at later life stages, also known as a compensatory growth response.
-
-  - *Con* - **domestication selection**
-  - *Cons* - the assumption underpinning selective breeding is the heritability of these desirable characteristics - this implies a likely genetic component especially if the trait is present across multiple generations! A main negative outcome of selective breeding is a **genetic bottleneck**. For example, what if a disease resistant strain is *more susceptable* to thermal stress? If hatchery put all their eggs in once basket for disease resiliance, they may fail in proceeding years as seawater temperatures rise.
-
-> *NOTE*: No single method is an 'end all' solution! Outcomes of any adjustment or enhancement strategy are likely to be specific to the region or hatchery! Especially with jobs and profit at risk, it is critical to prototype and run small-scale tests of any changes to standard protocols.
-
 ### <span style="color:beige">Settlement:</span>
 
 *'There's digging afoot!'*
 
 No longer free-swimming, a clear indicator that larvae have reached settlement competency is when technicians see small dots lining the inside of the larval rearing conicals. These are the larvae at pediveliger stage when individuals start protruding their foot, this is a muscular structure to allow the animals to begin burrowing!
 
-> *REMEMBER!* A major transition in rearing tanks occurs when larvae are no longer free swimming and settle in the tank(s). Instead of conicals or upwellers, the now pediveliger larvae are grow in down weller systems or raceways.
+> A major transition in rearing tanks occurs when larvae are no longer free swimming and settle in the tank(s). Instead of conicals or upwellers, the now pediveliger larvae are grow in down weller systems or raceways.
 Review I.1 The hatchery, for pictures and details
 
 
@@ -243,19 +245,25 @@ Under common ambient temperatures for geoduck production (~14-16 Celcius), larva
 
 ### <span style="color:beige">Seed:</span>
 
- *The product stage!*
+ *Plant or product!*
+
+After a couple short months in downwellers or raceways, the now **juvenile geoduck or 'seed'** are ready to sell or plant. Some aquaculture facilities may specialize in seed production or may purchase seed to solely grow market-sized adults, whereas larger practitioners may encompass the entire process from reproduction, seed, and consumable product.
 
 <p align="center">
  <img src="Geoduck_aquaculture.assets/seed_exp_2.jpg" width="250">  <img src="Geoduck_aquaculture.assets/juveniles.jpg" width="250">  <img src="Geoduck_aquaculture.assets/juvenile_2.jpg" width="250">
 </p>
 
+> photo/image: Juvenile geoduck at seed stage are roughly 4-8mm and can be managed by hand to plant.   
+
 ## <span style="color:yellowgreen">I.4 Grow out</span>
+
+*Dig deep and grow slow..*
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/beach_outplant.JPG" width="400">
 </p>
 
-Hatchery producers work alongside growers to sell  seed for 'grow-out'. 'Grow-out' is the process of planting goeduck on the beach. Once burrowed, geoduck are increasingly sessile, meaning that an individual will borrow deeper at it grows but remain in the same burrow for the rest of its life. The process is fairly simple, three seed are planted on each poitn within a covered PVC or mesh lining to prevent predation for the first year. Once one year in age, it is assumed that survivors are burrowed sufficiently deep in the sediment to remove these barriers and remain untouched for several years until market size (4-7 years!). The commercial value of adult geoduck is primarily driven by consumers and international trade. Large-scale industries  often have the infrastructure and land to both rear and grow their own seed emcompassing all aspects of production, however autotomous growers are also common in the Pacific Northwwest and solely purchase seed from local hatcheries to grow on private land.
+Hatchery producers work alongside growers to sell  seed for 'grow-out'. 'Grow-out' is the process of planting goeduck on the beach. Once burrowed, geoduck are increasingly sessile, meaning that an individual will borrow deeper at it grows but remain in the same burrow for the rest of its life. The process is fairly simple, three seed are planted on each position (show my mesh bags in the above image) within a covered PVC or mesh lining to prevent predation. Once one year in age, it is assumed that survivors are burrowed sufficiently deep in the sediment to remove these barriers and their burrows will remain untouched for several years until market size (4-7 years!). The commercial value of adult geoduck is primarily driven by consumers and international trade. Large-scale industries  often have the infrastructure and land to both rear and grow their own seed encompassing all aspects of production, however growers are also common in the Pacific Northwwest and solely purchase seed from local hatcheries.
 
 <span style="color:beige">Table: Timeline of geoduck production</span>
 
@@ -269,21 +277,59 @@ Grow-out  |  Beaches/mudflats  | 4-7 years
 <img src="Geoduck_aquaculture.assets/hatchery_cartoon.JPG" width="500">
 </p>
 
-  > *FOOD FOR THOUGHT*: The table and cartoon above demonstrate the timing and significance of the hatchery relative to the grow-out period. As one can see, the hatchery presents a short window (5-7 months) relative to the entire life history of geoduck (up to 168 years) and the market timeline (up tp 7 years!!).
-  >
-  > **Think...** considering this short opportunity when animals are succeptible (young stages of development) and in the hands of hatchery technicians, what stradegies can be implemented to enhance production?
-  >
-  > Review 'II.2 Future Solution: Stress Priming'!
+> *Food for thought..*
+- The table and cartoon above demonstrate the timing and significance of the hatchery relative to the grow-out period. As one can see, the hatchery presents a short window (5-7 months) relative to the entire life history of geoduck (up to 168 years) and the market timeline (up tp 7 years!!).
 
-# <span style="color:turquoise">II. Broodstock & Spawning Enhancment Stradegies</span>
+
+## <span style="color:yellowgreen">I.5. Production enhancement</span>
+
+*always room to improve..*
+
+Let's synthesis some main aspects of geoduck aquaculture.
+This entire process can be divided into **two main phases**:
+- **the hatchery** = controlled systes for *months*
+- **grow-out** = field for several *years*
+
+**Unique to the hatchery phase...**, this comparatively short window occurs when animals are both highly susceptible to stressors (young stages of development) and *in the hands of hatchery technicians*
+
+*What strategies can be implemented at the hatchery to improve production?*   
+
+#### <span style="color:white">Bottleneck for production:</span>
+
+*These little ones are a picky bunch!*
+
+Larvae in particular are *highly susceptible* to a wide variety of stressors (e.g. diet, temperature, pH, salinity, pathogens, etc.). *Hatcheries face major losses* and occasionally ubiquitous mortality of entire cohorts due to even subtle changes!
+
+**Below are several common methods to improve production:**
+
+- ##### <span style="color:white">Water quality monitoring</span>
+hatchery personnel can not change seawater conditions out in the bay or estuary, but they can *improve awareness* of changes in *real-time!*. Recent research in the Pacific Northwest of the United States found seawater low in aragonite saturation state and pH caused shell malformations and mortality of Pacific oyster larvae. To remedy this issue, an Oregon (USA) hatchery deployed water chemistry *sensors to monitory their inflow* and the coastal conditions - this allowed hatchery personnel to adjust the timing of their pumps to avoid corrosive seawater with a low pH!
+
+- ##### <span style="color:white">Buffering</span>
+in some cases, the hatchery can *alter the seawater* below exposing animals to potential harm. Sodium bicarbonate is an example of a chemical bioremediation strategy to avoid exposing shellfish to low pH conditions. As a popular method to cope with low pH seawater, hatcheries *mix the inflow with sodium bicarbonate to raise the pH* and aragonite saturation state to allow the shellfish to build their shells and develop normally. This technique has shown great success, boosting production by 30-50% in areas susceptible to ocean acidification!
+
+- ##### <span style="color:white">Culling</span>
+as larvae develop and tanks are periodically drained to count them and maintain their tanks, the *slower growers (runts) are set aside or removed*. The omission of these animals is called culling. Hatcheries perform culling as *a common housekeeping process* to reach their production timeline and avoid further - this is especially prevalent in larger industry hatcheries that can cut their losses with the space to accommodate the slower-growing larvae. However, *small-business hatcheries may not afford to cull larvae* or an only apply more conservative thresholds.
+
+- ##### <span style="color:white">Selective breeding</span>
+this strategy targets *resilient strains* (e.g. disease and environmental stressors) and economic traits (e.g. faster growers) to improve production. Broodstock with are selected due to their *better survivorship and/or developmental rate*, for examples, to produce offspring under the assumption that the probability is higher that offspring will express the same attributes.
+
+-  ##### <span style="color:pink">*Warning!*</span>, enhancement comes with cons...
+culling may result in a *genetic bottleneck* (faster growers are from one parental line/population) and adds a *human bias* as slower growers may outpace others at later life stages, also known as a compensatory growth response. Further, an optimal stress-free environmental over hatchery rearing can lead to *domestication selection*, leaving animals unprepared for dynamic conditions inevitable faced later in life over years of growth outside the hatchery!
+
+> *Food for thought..*
+- As for Pacific geoduck, animals are in human hands at the hatchery for the initial 5 months after fertilization. At the 'seed' stage geoduck are planted and succumb to the natural environment for roughly 4-7 years until harvested!!
+- No single method is an 'end all' solution! Outcomes of any adjustment or enhancement strategy are likely to be specific to the region or hatchery! Especially with jobs and profit at risk, it is critical to prototype and run small-scale tests of any changes to standard protocols.
+
+# <span style="color:turquoise">II. Broodstock & Spawning Enhancement Strategies</span>
 
 Geoduck hatcheries face an array of concerns during the spawning season...
 
-- (1) Sex and reproductive status of adult geoduck
+- (1) Sex and reproductive status of adult geoduck *remain largely unknown*
 
   To spawn adult geoduck, large tanks are stocked at high density of adults and fed high algae density to 'bulk-up' animals' reproductive status (increase development of eggs and sperm). However, unknown to hatchery managers and technicians are the sex distribution of geoduck in their tanks and their reproductive status. These essential factors remain unknown until individuals spawn, revealing their sex and status, or if animals are selected for lethal sampling before spawned. Alternative non-lethal methods can avoid costs associated with lethal sampling and allow hatcheries to sample periodically in preparation for spawn(s).
 
-- (2) Spawning attempts are temperamental
+- (2) Spawning attempts are *sparsely successful and temperamental*
 
   Spawn days are scheduled, but rarely go as planned. Like a homegrown recipe, hatcheries have their 'secret sauce' during spawning season, consisting of algae slurries, physical disturbance, simulation of tidal cycles, ramping temperature, or a lucky hatchery technician who, for some unknown reason, is the geoduck spawn whisperer (Josh Valley at Jamestown Point Whitney Shellfish). Whichever method deployed on spawn day, geoduck often refuse to produce, leading to frustration and unfruitful allocation of effort (likely financial costs).In an ideal world, the time scheduled to spawn, fertilize, and stock larval-rearing conicals would be predictable and acheivable in a standard work day. In reality, hatchery technicians may spend the day attempting a spawn only to return in the late nigh/early morning hours when individuals sporadically release their gametes.  
 
@@ -291,11 +337,11 @@ Geoduck hatcheries face an array of concerns during the spawning season...
 
 ## <span style="color:yellowgreen">II.1 Identification of Sex & Reproductive Status</span>
 
-A major artifact of geoduck aquaculture is the **spontaneous and opportunistic nature of natural spawning events**. For example, an unplanned nighttime natural spawn of a female geoduck set the stage for the growing season at Jamestown Point Whitney Shellfish Hatchery in winter 2019 (*Mat Henderson, personal communication*). Millions of eggs (~30) were released into a single broodstock tank with two dozen other animals (of unknown sex) and under seawater flow-though. In an optimal scenario, technicians would have isolated the spawning female to a static tank to control spawning/fertilization and maximize  egg yield. This event lead to a totally autotomous fertilization process outside of standard 9:00am - 5:00pm work hours. In most cases, spontaneous and unplanned spawning presents major loss in potential profit - luckily, personnel at JPWSH live on site and were able to salvage fertilized embryos.
+A major artifact of geoduck aquaculture is the *spontaneous and opportunistic nature of natural spawning events*. For example, an *unplanned* nighttime natural spawn of a female geoduck set the stage for the growing season at Jamestown Point Whitney Shellfish Hatchery in winter 2019 (*Mat Henderson, personal communication*). Millions of eggs (~30) were released into a single broodstock tank with two dozen other animals (of unknown sex) and under seawater flow-though. In an optimal scenario, technicians would have isolated the spawning female to a static tank to control spawning/fertilization and maximize  egg yield. This event lead to a totally autotomous fertilization process outside of standard 9:00am - 5:00pm work hours. In most cases, spontaneous and unplanned spawning presents major loss in potential profit - luckily, personnel at JPWSH live on site and were able to salvage fertilized embryos.
 
 Losses in production and profit are unfortunately common in shellfish aquaculture. In the story stated above, aquaculture technicians were limited by two main factors:
-- **sex identification of broodstock**: The sex is unknown to hatchery personnel and is only revelead once an individual begins spawning.
-- **reproductive status of broodstock**: Wild broodstock are typically collected in early winter and are fed algae-rich diets at the hatchery for several weeks/months to assume an optimal reproductive state. However, the timing to start controlled spawning attempts remains poorly understood.
+- **sex identification of broodstock**: The sex is unknown to hatchery personnel and is only reveled once an individual starts releasing gametes
+- **reproductive status of broodstock**: Wild adult broodstock clams are typically collected in early winter and are fed algae-rich diets at the hatchery for several weeks/months to hasten reproductive status. However, the optimal timing to allocate time and effort for spawning attempts remains poorly understood.
 
 #### <span style="color:beige">We deployed new techniques to track adult geoduck</span>
 
@@ -311,9 +357,8 @@ Trait  | Importance in Aquaculture | Technique | Note
 
 To identify the sex of adult geoduck, animals are randomly chosen for dissection of the gonad. This is a common destructive method, meaning selected animals for this assessment are no longer viable for the hatchery. Alternatively, these randomly chosen animals can be placed back into the broodstock tanks and spawned. We tested the practical application of gonad biopsies in a hatchery setting to both identify sex and reproductive status in randomly chosen adult geoduck during spawning season.
 
-##### <span style="color:beige">Steps:</span>
+##### <span style="color:beige">Materials:</span>
 
-Materials:
 - disposable biopsy punches
 - compound light microscope (40x-1000x magnification)
 - glass slides
@@ -321,15 +366,23 @@ Materials:
 - kimwipes/paper towels
 - DI water
 
+##### <span style="color:beige">Steps:</span>
 
   1. Prepare a wet space and dry space for biopsies (wet) and microscopy (dry)
+
   2. Randomly select a group (2-3) of adult geoduck from each tank/population and position in your wet work space noting their order/position to return later the correct tank/treatment/population/etc.
+
   3. Select a geoduck for the biopsy, position the siphon facing away and the shell downward. It is easiest to hold the geoduck shell on your palm to perform the biopsy. You should have the pedal gape facing you, tissue facing upward, and siphon facing away (shell in your hand).
+
   4. Insert a new biopsy punch into the pedal gape - at ~3-4 cm you should feel a slight resistance from contact with the gonad. Gently push the biopsy tool to perform a punch of the tissue and remove the tool. If performed correctly, a piece of tissue will be captured in the biopsy tool. If no tissue is present, repeat and gently insert further to reach the gonad.
+
   5. Dispense the sample on a slide, the sample will likely be both solid (tissue) and aqueous. Using a disposable pipette, transport some of the aqueous sample to another slide for microscopy.
+
   6. Focus the compound microscope to view your biopsy sample. What do you see?
     - eggs = large circular cells about 10um diameter; cells may also be oblong or teardrop-shaped.
     - sperm = cells are quite small may not be clearly visible! Add a drop a seawater to active the sperm. You may view a static sample come alive as sperm are activated by the seawater and begin moving! Note: this active state is temporary
+
+
   7. Repeat for remaining randomly selected adult geoduck. Make note of their sex and reproductive status. Mark the animals selected for the biopsy to keep track of them leading to spawning - this can save effort and time now knowing both their sex and status!
 
 <p align="center">
@@ -342,6 +395,8 @@ Materials:
 
 
 ## <span style="color:yellowgreen">II.2. Strip Spawning</span>
+
+*plan your spawning timeline to the minute!*
 
 ##### <span style="color:beige">About:</span>
 
@@ -421,7 +476,11 @@ Future of the Sea: Ocean Acidification, Government Office
 for Science, 19*
 
 
-In particular, global environmental phenomena such as ocean acidification, or the reduction of ocean pH due to absorption of atmospheric CO2, and increasing marine heat waves are devastating marine life and thus ocean ecosystems. It is estimated that nearly **25% of the carbon dioxide (CO2) emitted by human activity since the industrial revolution has since diffused into the global ocean!** Although the ocean acts naturally as a carbon sink, this excess carbon dioxide results in hypercapnic (high CO2) conditions leading to disruption in the carbon cycle - hydrogen ions in seawater (the H in H2O) disassociates, increase the amount of free H+ in the seawater. Elevated hydrogen ions (H+) **decreases pH**. Similar to the 'buffering' role of the ocean for atmospheric gases, the ocean also buffers against low pH conditions, however this **compromises the availability of calcium and ability to uptake calcium for hard shell organisms!**
+In particular, global environmental phenomena such as ocean acidification, or the reduction of ocean pH due to absorption of atmospheric CO2, and increasing marine heat waves are devastating marine life and thus ocean ecosystems.
+
+>It is estimated that nearly 25% of the carbon dioxide (CO2) emitted by human activity since the industrial revolution has since diffused into the global ocean!
+
+Although the ocean acts naturally as a carbon sink, this excess carbon dioxide results in hypercapnic (high CO2) conditions leading to disruption in the carbon cycle - hydrogen ions in seawater (the 'H' in H2O) disassociates from a bound state, increasing the amount of free H+ in the seawater. Elevated hydrogen ions *decreases pH*. Similar to the 'buffering' role of the ocean for atmospheric gases, the ocean also buffers against low pH conditions, however the excess amount of free hydrogen ions *compromises the availability of calcium and calcium uptake for hard shell organisms!*
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/OA_slide_2.jpg" width="500">
@@ -430,34 +489,116 @@ In particular, global environmental phenomena such as ocean acidification, or th
 *Citation(s): Cai, W. J., Feely, R. A., Testa, J. M., Li, M., Evans, W., Alin, S. R., ... & Bednaršek, N. (2021). Natural and anthropogenic drivers of acidification in large estuaries. Annual Review of Marine Science, 13, 23-55.*
 
 > *An issue close to home...*
->  - **Ocean acidification is exacerbated in productive coastal systems** such as temperature marine estuaries and bays where high residence time, stratification and eutrophication (coastal run-off enhancing primary productivity) write the perfect recipe for acidification! **Estuarine systems across continental US** (Chesapeake Bay, Puget Sound, Narragansett Bay, Great South Bay, Long Island Sound, etc.) have reported seasonal and daily-cycling low pH conditions especially harmful for calcifying animals!
+>  - *Ocean acidification is exacerbated in productive coastal systems* such as temperature marine estuaries and bays where high residence time, stratification and eutrophication (coastal run-off enhancing primary productivity) write the perfect recipe for acidification!
+
+> - *Estuarine systems across continental US* (Chesapeake Bay, Puget Sound, Narragansett Bay, Great South Bay, Long Island Sound, etc.) have reported seasonal and daily-cycling low pH conditions especially harmful for calcifying animals!
 
 
 
-<p align="center">
-<img src="Geoduck_aquaculture.assets/PNW_seedstock_crisis.JPG" width="500">
-</p>
+*Shellfish are at risk, thus aquaculture is forced to adapt!*
+
+Ironically, coastal systems heavily affected by human-introduced stressors are hubs for societal, cultural, and economic importance through sustainable seafood production. This paints an ironic recipe in our coastal communities, enhancing the need for public awareness and action as projected future scenarios bleaker.
 
 
-> *shellfish are at risk, thus aquaculture is forced to adapt!*
-> - Ironically, coastal systems heavily at risk of this human-introduced dilemma are hubs for societal, cultural, and economic importance through sustainable seafood production
+In the Pacific Northwest of United States, *hatchery losses* in recent years due to ocean acidification have been dubbed the **"Pacific Northwest Seedstock Crisis"**.. demanding investigation of adaptive resilience to anthropogenic (human introduced) stressors!
 
-
-**Hatchery losses** in recent years due to ocean acidification **demand investigation of adaptive resilience to anthropogenic (human introduced) stressors**
-
-<p align="center">
-<img src="Geoduck_aquaculture.assets/quote_1.PNG" width="250"> <img src="Geoduck_aquaculture.assets/quote_2.PNG" width="250">
-</p>
 
 
 ## <span style="color:yellowgreen">III.2. Future Solution: Stress Priming</span>
-> *WHAT DOES NOT KILL YOU MAKES YOU STRONGER?*
+> *what does not kill you makes you stronger!*
 
 #### <span style="color:beige">What does this mean?</span>
 
-### <span style="color:yellowgreen">Initial Tests & Results</span>
+Stress priming describes the beneficial effects of non-lethal stress (or 'moderate' stress) on improved resiliance or ability to cope with subsequent stress exposure(s) later in life.
 
-#### <span style="color:beige">(1) Repeat exposure experiment:</span>
+> other terms related to priming include  hormesis, preconditioning, developmental acclimatization, and stress hardening.. each with their own important niche, but under the umbrella of this general response!
+
+Did you know? This general response, early-life stress for improved response, is conserved across organisms on planet Earth, meaning that there is supporting evidence in a spectrum of taxon ranging from nematodes to small mammals!
+
+### <span style="color:yellowgreen">III.2.1.1 Broodstock</span>
+
+### <span style="color:beige"> a) Gonad histology of conditioned broodstock</span>
+> *Reference:*
+Trigg S.A., Gurr, S. J., Mitchell K.R., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (*in progress*). Impact of pH stress on reproductive development in the Pacific geoduck (Panopea generosa)
+
+**Objective:** Investigate the effects of OA on gonad reproductive development in an aquaculture setting.
+
+#### <span style="color:beige">Life stages:</span>
+
+- adults (unknown age) collected in the field by geoduck divers and tribal community members of Jamestown S'Klallam Tribe.
+
+#### <span style="color:beige">Treatment(s) and conditioning duration:</span>
+
+
+|  | <span style="color:grey">pH</span> | <span style="color:grey">Ω aragonite saturation</span> | <span style="color:grey">duration</span> |
+| ---------- | ---------- | ---------- | ---------- |
+| Ambient  | 7.8 |  1.3 | 101 total days |
+| Moderate stress | 6.8 | 0.1 | 93 days preceding 8-days of ambient recovery |
+
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/GonadHistologyMS_expdesign.jpg" height="150">
+</p>
+
+> *figure:* experimental design in the conditioning trails with adult Pacific geoduck clams. Duplicate brodstock tanks were maintained at ambient and low pH conditions for several week. Asterisks (*) represent days when gonad sampls were taken for histological analysis
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/GonadHistologyMS_hist.jpg" height="400">
+</p>
+
+> *figure:* gonad histology samples of a female (top) and male (bottom) geoduck clam with size scale. Labeled terms are key characteristics analyzed via qualitative and quantitative methods to investigate effects of OA on reproductive status.
+
+
+#### <span style="color:beige">Results:</span>
+
+##### Qualitative staging
+
+Here we see the delay in reproductive development in both female and male geoduck clams
+
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/GonadHistologyMS_staging.jpg" height="300">
+</p>
+
+> *figure:* We also analyzed key traits in gonad histology slides quantitatively to compliment staging. Here we see a more in-depth view of physiological characteristics attributed with reproductive status!
+
+##### Quantitative analysis
+
+Looking a bit closer at reproductive status and defined traits...
+
+**Female clams**:
+
+ - proportion of connective tissue and follicle area are important indicators of this delay
+
+**Male clams**:
+
+-  proportion of spermatocytes and spermatozoa are important indicators of this delay
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/GonadHistologyMS_quantitative.jpg" height="300">
+</p>
+
+> *figure:* 'Staging' is a common method in histology in which a specified criteria is defined - here shown as light to dark shading (numerical 1-7 for females and 1-5 for males) representative of early to late reproductive development.
+
+
+#### <span style="color:beige">Summary:</span>
+
+A dramatic decrease in pH over a 2-month period decreased the reproductive development of gonad tissues, delaying maturation of both egg cells and spermatozoa in Pacific geoduck.
+
+*Questions moving forward..*
+
+We saw a compensatory 'catch-up' of egg numbers, does this suggest that prolonged exposure as opposed to acute stress may have different effects on reproductive development?
+
+Considering the delay in proportion of spermatozoa via histological analysis, how does intracellular acidosis affect the transition of spermatocytes to viable sperm?
+
+
+
+### <span style="color:yellowgreen">III.2.1.2 Larvae and Juveniles</span>
+
+### <span style="color:beige"> a) Repeat exposure experiment:</span>
+
+> *Reference:*
+Gurr, S. J., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (2020). Metabolic recovery and compensatory shell growth of juvenile Pacific geoduck Panopea generosa following short-term exposure to acidified seawater. Conservation physiology, 8(1), coaa024.
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/experiment_design_1.jpg" height="300">
@@ -465,7 +606,7 @@ In particular, global environmental phenomena such as ocean acidification, or th
 
 Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
 
-<span style="color:beige">Life stages:</span>
+#### <span style="color:beige">Life stages:</span>
 
 - juveniles, 5-10 months post-fertilization
 
@@ -481,14 +622,14 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 
 > *photo/image:* ~9-month-old juvenile geoduck reared under standard hatchery practice in a heath tray after the repeated stress periods (above).
 
-<span style="color:beige">Treatment(s):</span>
+#### <span style="color:beige">Treatment(s):</span>
 
 |  | <span style="color:grey">pH</span> | <span style="color:grey">Ω aragonite saturation</span> |
 | ---------- | ---------- | ---------- |
 | Ambient  | 7.8 |  1.3 |
 | Moderate stress | 7.2 | 0.4 |
 
-<span style="color:beige">Results:</span>
+#### <span style="color:beige">Results:</span>
 
 | <span style="color:grey">measurement | <span style="color:grey">response |
 | ---------- | ---------- |
@@ -496,9 +637,12 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 | respiration rate |  initial 25% decrease, **able to recover** and cope with short-term stress; evidence of **"memory" and positive carry over** later in life |
 | shell growth | initial decrease 3.6% length, but **compensatory growth** reveals benefits of early life exposure |
 
-<span style="color:beige">Summary:</span>
+#### <span style="color:beige">Summary:</span>
 
-#### <span style="color:beige">(2) Stress conditioning on subsequent response:</span>
+### <span style="color:beige"> b) Stress conditioning on subsequent response:</span>
+
+> *Reference:*
+Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (2021). Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam. Journal of Experimental Biology.
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/experiment_design_2.jpg" height="300">
@@ -506,15 +650,26 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 
 Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
 
-**Life stage** : postlarval 'settlement' stage (30 das post-fertilization) to juvenile stage (~5-6 months post-fertilization)
+#### <span style="color:beige">Life stage:</span>
+ postlarval 'settlement' stage (30 das post-fertilization) to juvenile stage (~5-6 months post-fertilization)
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/exp_2.jpg" width="275"><img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="275">
 </p>
 
-**Treatment(s)** : conditioning period (ambient = 900 µatm; moderate stress = 3000 µatm); repeated stress after conditioned (ambient, moderate and severe conditions = 900, 3000, 4900 µatm)
+#### <span style="color:beige">Treatments:</span>
 
-#### Results :
+**'Priming' period:**
+  - ambient pH / pCO2 = 7.9 pH / 900 µatm
+  - moderate pH stress / elevated pCO2 = 7.4 pH / 3000 µatm
+
+
+**Subsequent stress periods:**
+- ambient pH / pCO2 = 7.9 pH / 900 µatm
+- moderate pH stress / elevated pCO2 = 7.4 pH / 3000 µatm
+- severe pH stress / elevated pCO2 = 7.1 pH / 4900 µatm
+
+#### <span style="color:beige">Results:</span>
 
 | <span style="color:grey">stress conditioned? (Y/N) | <span style="color:grey">repeat exposure (Y/N) | <span style="color:grey">intensity (uatm) | <span style="color:grey">respiration rate | <span style="color:grey">shell growth | <span style="color:grey">tissue growth (AFDW) | <span style="color:grey">antioxidant capacity |
 | --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
@@ -524,25 +679,74 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 | Y (moderate) | Y |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
 | Y (moderate) | Y | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
 
-## <span style="color:green">**IV.4 Takeaways for Aquaculture**</span>
+#### <span style="color:beige">Summary:</span>
 
+*Relative to naïve clams...*
 
+**stress priming increased:**
+-  respiration rate
+- organic biomass
+- shell size
 
+**stress priming decreased:**
+-  antioxidant capacity
 
+..this suggests that stress over postlarval-to-juvenile development affects performance and oxidative status later in life. Moreover, priming practices tested in this study demonstrate stress intensity-specific responses and life-stages conducive to benefits later in life!
 
-### Additional photos to place in the handbook....
+### <span style="color:beige"> c) Gene expression of naive *v* stress-primed clams:</span>
 
-<img src="Geoduck_aquaculture.assets/exp_2_2.JPG" width="275"><img src="Geoduck_aquaculture.assets/beach_outplant.JPG" width="275"><img src="Geoduck_aquaculture.assets/conicals_upweller.JPG" width="275"><img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="275"><img src="Geoduck_aquaculture.assets/seed_cup.JPG" width="275"><img src="Geoduck_aquaculture.assets/seed_exp_2.JPG" width="300">
+> *Reference:*
+Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (in prep). Environmental conditioning of clams to low pH enhances robustness to environmental stress through acclimatory gene expression.
 
+In the above experiment (*review #2 'Stress conditioning on subsequent response'*) we sequenced whole tissue samples of geoduck clams reared under ambient conditions (naive) and reared under the low-pH stress conditions (stress-primed).
 
+*Our idea was....*
 
+If we see these changes in their physical and subcellular traits (shell size, metabolic rates, antioxidant proteins, etc), are there also differences at the *molecular* level?
+
+Does gene expression data give us a better picture of the *mechanisms of stress priming*?
+
+#### <span style="color:beige">Results:</span>
+
+<p align="center">
+<img src="Geoduck_aquaculture.assets/20210621_CartoonConcept.JPG" width="500">
+
+> *figure:* summary of the gene expression data in our study presented as a Venn diagram for the experimental design. Subsets of the venn diagram demonstrate groups of processes to describe gene expression patterns from the naive and stress-primed ('acclimated') clams as white and grey clams, respectively. On the bottom of the figure are gene pathways expressed by the naive (white clam) and stress-primed/acclimated (grey clam) animals during the subsequent exposure periods.
+
+#### <span style="color:beige">Summary:</span>
+
+- Collectively, gene expression data in this study corroborates the physiological traits (*review #2 'Stress conditioning on subsequent response'*) and demonstrates both frontloaded and fine-tuned gene expression in th
+
+**stress-primed animals:**
+- under low pH: increased expression in immune response, mitochondrial and cellular quality control
+- under ambient conditions: increased expression in energy metabolism and biosynthesis
+
+**naïve animals:**
+- under *all* conditions: increased expression for fatty acid metabolism and degradation of fatty acids, increase in antioxidants (glutathione)
+
+- Our data suggests post-larval acclimatory periods to low pH can, via gene expression regulation, enhance robustness to environmental stress in juvenile Pacific geoducks.
+Such stress priming approaches may be beneficial for aquaculture husbandry practices, as global seafood demand intensifies concurrent with increasing climate change in marine systems.
+
+## <span style="color:green">**III.3 Takeaways for Aquaculture**</span>
+
+<span style="color:beige">‘Stress priming’ to improve hatchery-propagated seed:</span>
+
+ Aquaculture is projected to surpass wild capture to satisfy global seafood demand (FAO 2020); therefore the irreversible nature of global acidification and rapid changes in coastal and benthic zones  require mitigation through societal actions (e.g. management interventions, policies and public awareness; Kelly et al., 2011) and aquaculture adaptations to improve food security.
+
+Mild stress-priming may help to minimize effects of domestication selection ('unprepared' juvenile clams rearing under optimal conditions) and enhance resilience in hatchery-propagated seed. Gene expression patterns and physiological responses, as showcased in our tests, can expand resources for ecosystem conservation and aquaculture by optimizing the timing and stress type/intensity to elicit beneficial responses and identifying genes or gene-expression patterns associated with stress-resilient or fast-growing economic traits!
 
 # <span style="color:Green">**Acknowledgements**</span>
 
-We thank our funding source the Foundation for Food and Agriculture research; Grant ID: 554012, Development of Environmental Conditioning Practices to Decrease Impacts of Climate Change on Shellfish Aquaculture.
 
-Jamestown S'klallam Tribe & Jamestown Point Whitney Shellfish Hatchery
+
+Jamestown S'Klallam Tribe & all the managers and supporting staff/technicians at the Jamestown Point Whitney Shellfish Hatchery (Brinnonn, WA).
 
 < insert picture of Kurt and the Jamestown personnel here>
 
+<p align="center">
 <img src="Geoduck_aquaculture.assets/Mat_and_Josh.JPG" width="500">
+
+>  *photo/image (above):* Mat Henderson (left) and Josh Valley (right) at the Jamestown shellfish hatchery
+
+### Funding sources
+We thank our funding source the **Foundation for Food and Agriculture Research (FFAR)**; Grant ID: 554012, Development of Environmental Conditioning Practices to Decrease Impacts of Climate Change on Shellfish Aquaculture.
