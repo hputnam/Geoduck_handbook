@@ -19,7 +19,7 @@
 
   - ###  I.1. [Hatchery Overview](#I1-The-hatchery)
 
-  - ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning--Natural-Spawning)
+  - ###  I.2. [Broodstock Conditioning & Natural Spawning](#I2-Broodstock-Conditioning-&-Natural-Spawning)
 
   - ###  I.3. [Larvae and Seed](#I3-Larvae-and-Seed)
 
@@ -35,7 +35,7 @@
 
     - ### II.1.2 [Hemolymph Extraction](#II12-General-Procedure-Hemolymph-Extraction-Vitellogenin)
 
-  - ###   II.2. [Strip Spawning](#II2-Strip-Spawning)
+  - ###  II.2. [Strip Spawning](#II2-Strip-Spawning)
 
   - ###  II.3. [Takeaways for Aquaculture](#II2-Takeaways-for-Aquaculture)
 
