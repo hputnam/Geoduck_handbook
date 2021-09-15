@@ -712,7 +712,7 @@ Does gene expression data give us a better picture of the *mechanisms of stress 
 #### <span style="color:beige">Results:</span>
 
 <p align="center">
-<img src="Geoduck_aquaculture.assets/20210621_CartoonConcept.jpg" width="500">
+<img src="Geoduck_aquaculture.assets/20210621_CartoonConcept.jpg" width="700">
 
 > *figure:* summary of the gene expression data in our study presented as a Venn diagram for the experimental design. Subsets of the venn diagram demonstrate groups of processes to describe gene expression patterns from the naive and stress-primed ('acclimated') clams as white and grey clams, respectively. On the bottom of the figure are gene pathways expressed by the naive (white clam) and stress-primed/acclimated (grey clam) animals during the subsequent exposure periods.
 
