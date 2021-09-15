@@ -614,13 +614,13 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 - juveniles, 5-10 months post-fertilization
 
 <p align="center">
-<img src="Geoduck_aquaculture.assets/exp_1.jpg" width="250">
+<img src="Geoduck_aquaculture.assets/exp_1.JPG" width="300">
 </p>
 
 > *photo/image:* ~3-4-month juvenile geoduck in isolated cups to measure respiration rate and shell growth periodically over the repeat exposures (above).
 
 <p align="center">
-<img src="Geoduck_aquaculture.assets/juvenile_2.jpg" width="250">
+<img src="Geoduck_aquaculture.assets/juvenile_2.jpg" width="300">
 </p>
 
 > *photo/image:* ~9-month-old juvenile geoduck reared under standard hatchery practice in a heath tray after the repeated stress periods (above).
@@ -648,7 +648,7 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
 Gurr, S. J., Trigg, S. A., Vadopalas, B., Roberts, S. B., & Putnam, H. M. (2021). Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam. Journal of Experimental Biology.
 
 <p align="center">
-<img src="Geoduck_aquaculture.assets/experiment_design_2.jpg" height="300">
+<img src="Geoduck_aquaculture.assets/experiment_design_2.JPG" height="300">
 </p>
 
 Juvenile geoduck *reared under standard hatchery practice* were exposed to a  acute exposures of low pH conditions to measure physiological effects of repeat stress and carryover effects of stress history on subsequent response. After the repeat exposures, animals were reared for 5 months to measure carryover effects.
@@ -657,7 +657,7 @@ Juvenile geoduck *reared under standard hatchery practice* were exposed to a  ac
  postlarval 'settlement' stage (30 das post-fertilization) to juvenile stage (~5-6 months post-fertilization)
 
 <p align="center">
-<img src="Geoduck_aquaculture.assets/exp_2.jpg" width="275"><img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="275">
+<img src="Geoduck_aquaculture.assets/exp_2.JPG" width="300"><img src="Geoduck_aquaculture.assets/resp_vials_2.JPG" width="300">
 </p>
 
 #### <span style="color:beige">Treatments:</span>
@@ -712,7 +712,7 @@ Does gene expression data give us a better picture of the *mechanisms of stress 
 #### <span style="color:beige">Results:</span>
 
 <p align="center">
-<img src="Geoduck_aquaculture.assets/20210621_CartoonConcept.JPG" width="500">
+<img src="Geoduck_aquaculture.assets/20210621_CartoonConcept.jpg" width="500">
 
 > *figure:* summary of the gene expression data in our study presented as a Venn diagram for the experimental design. Subsets of the venn diagram demonstrate groups of processes to describe gene expression patterns from the naive and stress-primed ('acclimated') clams as white and grey clams, respectively. On the bottom of the figure are gene pathways expressed by the naive (white clam) and stress-primed/acclimated (grey clam) animals during the subsequent exposure periods.
 
