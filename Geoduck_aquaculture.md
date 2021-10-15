@@ -763,7 +763,11 @@ Jamestown S'Klallam Tribe & all the managers and supporting staff/technicians at
 < insert picture of Kurt and the Jamestown personnel here>
 
 <p align="center">
+<img src="Geoduck_aquaculture.assets/Kurt.png" width="500">
+
+<p align="center">
 <img src="Geoduck_aquaculture.assets/Mat_and_Josh.JPG" width="500">
+
 
 >  *photo/image (above):* Mat Henderson (left) and Josh Valley (right) at the Jamestown shellfish hatchery
 
