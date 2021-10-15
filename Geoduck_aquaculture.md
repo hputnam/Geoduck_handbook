@@ -765,9 +765,10 @@ Jamestown S'Klallam Tribe & all the managers and supporting staff/technicians at
 <p align="center">
 <img src="Geoduck_aquaculture.assets/Kurt.png" width="500">
 
+>  *photo/image (above):* Kurt Grinnell - CEO of Jamestown Seafood, Jamestown S’Klallam Tribal Council member (photo courtesy of Northwest Aquaculture Alliance /Jamestown S’Klallam Tribe)
+
 <p align="center">
 <img src="Geoduck_aquaculture.assets/Mat_and_Josh.JPG" width="500">
-
 
 >  *photo/image (above):* Mat Henderson (left) and Josh Valley (right) at the Jamestown shellfish hatchery
 
