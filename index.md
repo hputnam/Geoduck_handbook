@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: Pacific Geoduck Aquaculture Handbook
+---
+
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
 
 ---
