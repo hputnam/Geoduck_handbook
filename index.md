@@ -5,7 +5,6 @@ title: Pacific Geoduck Aquaculture Handbook
 
 # <span style="color:turquoise">Pacific Geoduck Aquaculture Handbook (*Panopea generosa*)</span>
 
----
 
 <p align="center">
 <img src="Geoduck_aquaculture.assets/seed_photo.jpg" width="800">
