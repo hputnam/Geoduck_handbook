@@ -760,8 +760,6 @@ Mild stress-priming may help to minimize effects of domestication selection ('un
 
 Jamestown S'Klallam Tribe & all the managers and supporting staff/technicians at the Jamestown Point Whitney Shellfish Hatchery (Brinnonn, WA).
 
-< insert picture of Kurt and the Jamestown personnel here>
-
 <p align="center">
 <img src="Geoduck_aquaculture.assets/Kurt.png" width="500">
 
